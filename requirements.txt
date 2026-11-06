@@ -4,3 +4,7 @@ streamlit
 plotly
 mysql-connector-python
 openpyxl
+Faker
+reportlab
+groq
+scikit-learn

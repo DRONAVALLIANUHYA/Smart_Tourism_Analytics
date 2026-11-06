@@ -1,0 +1,1001 @@
+passenger_id,route,travel_date,travel_time,ticket_price
+1,Fujiyoshida - Mount Fuji,2026-07-11,03:34:23,500
+2,Fujiyoshida - Kawaguchiko,2025-11-14,08:06:21,1000
+3,Fujiyoshida - Kawaguchiko,2026-02-19,19:40:56,800
+4,Fujiyoshida - Kawaguchiko,2026-01-30,05:36:52,500
+5,Fujiyoshida - Mount Fuji,2026-08-18,12:45:07,1500
+6,Fujiyoshida - Kawaguchiko,2026-07-25,09:31:05,1500
+7,Kawaguchiko - Otsuki,2026-10-17,03:48:42,500
+8,Fujiyoshida - Kawaguchiko,2025-12-08,18:30:12,500
+9,Fujiyoshida - Kawaguchiko,2026-04-17,23:06:33,800
+10,Fujiyoshida - Mount Fuji,2025-11-16,19:23:25,1500
+11,Fujiyoshida - Kawaguchiko,2026-01-28,19:37:48,1500
+12,Fujiyoshida - Kawaguchiko,2026-05-20,06:09:38,1500
+13,Kawaguchiko - Otsuki,2025-11-15,19:43:15,800
+14,Kawaguchiko - Otsuki,2026-01-21,18:20:08,1500
+15,Kawaguchiko - Otsuki,2026-07-15,12:38:30,500
+16,Fujiyoshida - Kawaguchiko,2026-06-04,05:19:14,1200
+17,Kawaguchiko - Otsuki,2026-01-29,03:37:57,1000
+18,Fujiyoshida - Kawaguchiko,2026-06-21,11:13:12,800
+19,Kawaguchiko - Otsuki,2026-09-15,12:39:43,500
+20,Fujiyoshida - Kawaguchiko,2026-08-26,17:54:38,1200
+21,Fujiyoshida - Kawaguchiko,2026-01-06,08:22:21,1000
+22,Kawaguchiko - Otsuki,2026-04-18,23:20:27,1500
+23,Kawaguchiko - Otsuki,2026-02-20,11:08:08,500
+24,Fujiyoshida - Mount Fuji,2026-01-27,17:59:19,1200
+25,Fujiyoshida - Mount Fuji,2026-03-15,10:48:22,500
+26,Kawaguchiko - Otsuki,2025-12-11,03:27:58,500
+27,Fujiyoshida - Mount Fuji,2025-12-12,11:32:23,1000
+28,Fujiyoshida - Mount Fuji,2026-09-30,01:34:48,1500
+29,Kawaguchiko - Otsuki,2026-06-27,16:50:27,1500
+30,Fujiyoshida - Kawaguchiko,2026-09-14,23:11:45,500
+31,Fujiyoshida - Kawaguchiko,2026-08-15,01:36:51,800
+32,Kawaguchiko - Otsuki,2026-06-01,13:42:20,500
+33,Fujiyoshida - Kawaguchiko,2026-10-29,12:33:13,500
+34,Kawaguchiko - Otsuki,2025-12-05,01:03:52,1000
+35,Kawaguchiko - Otsuki,2026-02-26,23:09:13,1000
+36,Fujiyoshida - Kawaguchiko,2026-07-07,09:24:13,1000
+37,Kawaguchiko - Otsuki,2026-10-14,11:41:44,800
+38,Fujiyoshida - Mount Fuji,2026-06-17,08:36:38,1000
+39,Fujiyoshida - Mount Fuji,2026-08-05,19:15:53,500
+40,Fujiyoshida - Mount Fuji,2025-11-22,18:56:12,800
+41,Fujiyoshida - Mount Fuji,2026-02-01,17:13:41,800
+42,Fujiyoshida - Kawaguchiko,2026-02-25,05:46:00,1200
+43,Kawaguchiko - Otsuki,2026-10-03,01:10:20,1000
+44,Fujiyoshida - Mount Fuji,2026-10-07,09:42:00,1500
+45,Fujiyoshida - Kawaguchiko,2026-04-01,01:42:52,1000
+46,Fujiyoshida - Kawaguchiko,2026-04-30,00:32:23,800
+47,Fujiyoshida - Kawaguchiko,2026-09-24,22:52:16,1000
+48,Kawaguchiko - Otsuki,2026-01-07,21:32:52,1000
+49,Fujiyoshida - Kawaguchiko,2026-03-22,07:48:39,800
+50,Fujiyoshida - Mount Fuji,2026-07-23,18:28:18,1000
+51,Fujiyoshida - Kawaguchiko,2026-08-04,16:03:56,1200
+52,Kawaguchiko - Otsuki,2026-07-14,17:15:23,1200
+53,Fujiyoshida - Kawaguchiko,2026-06-29,11:18:09,1000
+54,Fujiyoshida - Kawaguchiko,2026-01-10,02:50:43,800
+55,Fujiyoshida - Mount Fuji,2026-08-15,19:24:21,1500
+56,Fujiyoshida - Mount Fuji,2026-01-07,12:57:29,1000
+57,Fujiyoshida - Mount Fuji,2026-04-01,14:08:57,1500
+58,Kawaguchiko - Otsuki,2026-10-30,06:43:32,1500
+59,Kawaguchiko - Otsuki,2026-07-30,01:27:56,1000
+60,Fujiyoshida - Kawaguchiko,2026-01-29,04:18:31,800
+61,Fujiyoshida - Mount Fuji,2026-03-10,12:53:58,1200
+62,Fujiyoshida - Kawaguchiko,2026-09-02,08:17:10,500
+63,Fujiyoshida - Kawaguchiko,2026-02-01,00:20:37,800
+64,Fujiyoshida - Mount Fuji,2025-11-17,12:31:35,800
+65,Fujiyoshida - Mount Fuji,2026-03-07,00:07:09,1200
+66,Fujiyoshida - Mount Fuji,2026-02-16,03:02:24,500
+67,Kawaguchiko - Otsuki,2026-01-25,08:04:47,1200
+68,Fujiyoshida - Mount Fuji,2026-10-11,20:32:39,1200
+69,Fujiyoshida - Mount Fuji,2026-03-07,20:40:23,1000
+70,Fujiyoshida - Mount Fuji,2026-07-17,11:02:48,500
+71,Fujiyoshida - Mount Fuji,2026-04-07,04:04:41,500
+72,Fujiyoshida - Mount Fuji,2026-05-02,02:13:21,1500
+73,Kawaguchiko - Otsuki,2026-02-15,12:43:58,1000
+74,Fujiyoshida - Kawaguchiko,2026-02-08,19:14:20,1000
+75,Kawaguchiko - Otsuki,2026-06-11,08:28:36,800
+76,Kawaguchiko - Otsuki,2026-02-15,03:05:39,500
+77,Fujiyoshida - Mount Fuji,2026-06-20,18:43:47,1000
+78,Fujiyoshida - Mount Fuji,2026-10-19,18:56:56,800
+79,Fujiyoshida - Mount Fuji,2026-04-09,11:17:31,500
+80,Fujiyoshida - Mount Fuji,2026-01-29,06:05:54,1000
+81,Fujiyoshida - Mount Fuji,2026-05-21,09:39:59,1500
+82,Fujiyoshida - Mount Fuji,2025-12-10,01:37:09,800
+83,Fujiyoshida - Kawaguchiko,2025-11-23,08:15:22,1000
+84,Fujiyoshida - Kawaguchiko,2026-01-03,06:08:34,1500
+85,Fujiyoshida - Mount Fuji,2026-01-06,05:44:38,500
+86,Fujiyoshida - Mount Fuji,2026-07-27,20:13:40,1000
+87,Kawaguchiko - Otsuki,2026-06-24,23:45:12,500
+88,Fujiyoshida - Kawaguchiko,2026-04-03,04:46:09,1000
+89,Kawaguchiko - Otsuki,2026-06-24,10:37:53,800
+90,Fujiyoshida - Kawaguchiko,2026-05-29,22:21:42,800
+91,Fujiyoshida - Mount Fuji,2026-06-07,08:41:44,500
+92,Fujiyoshida - Kawaguchiko,2026-07-27,15:18:52,1200
+93,Fujiyoshida - Kawaguchiko,2025-12-19,00:04:27,1500
+94,Fujiyoshida - Kawaguchiko,2026-10-14,11:16:42,800
+95,Fujiyoshida - Mount Fuji,2026-08-23,23:25:24,1200
+96,Fujiyoshida - Mount Fuji,2026-08-30,04:36:25,800
+97,Kawaguchiko - Otsuki,2026-03-17,15:27:48,1500
+98,Fujiyoshida - Mount Fuji,2026-02-26,03:34:37,1200
+99,Fujiyoshida - Kawaguchiko,2026-01-05,08:44:01,1500
+100,Fujiyoshida - Mount Fuji,2025-11-06,16:41:29,800
+101,Fujiyoshida - Mount Fuji,2026-10-11,18:14:29,1000
+102,Kawaguchiko - Otsuki,2026-02-15,03:14:55,1000
+103,Kawaguchiko - Otsuki,2026-08-27,09:59:54,1500
+104,Kawaguchiko - Otsuki,2026-05-21,20:31:42,500
+105,Fujiyoshida - Kawaguchiko,2026-10-09,22:05:43,800
+106,Fujiyoshida - Kawaguchiko,2026-02-28,04:13:07,1000
+107,Fujiyoshida - Kawaguchiko,2026-05-21,00:52:51,1500
+108,Fujiyoshida - Mount Fuji,2026-01-21,20:10:38,800
+109,Fujiyoshida - Mount Fuji,2026-03-30,07:24:32,800
+110,Fujiyoshida - Kawaguchiko,2026-01-06,08:07:13,500
+111,Fujiyoshida - Mount Fuji,2026-09-03,00:17:19,500
+112,Fujiyoshida - Kawaguchiko,2026-10-27,05:08:56,500
+113,Fujiyoshida - Kawaguchiko,2026-06-25,22:37:17,1000
+114,Fujiyoshida - Kawaguchiko,2026-05-13,02:19:45,1500
+115,Fujiyoshida - Kawaguchiko,2025-12-18,22:27:38,1000
+116,Fujiyoshida - Mount Fuji,2026-10-12,03:48:44,1200
+117,Fujiyoshida - Kawaguchiko,2026-09-14,07:19:27,1500
+118,Fujiyoshida - Kawaguchiko,2026-02-05,17:42:37,1500
+119,Fujiyoshida - Mount Fuji,2026-02-06,17:35:45,1200
+120,Fujiyoshida - Kawaguchiko,2025-12-05,22:16:20,1200
+121,Kawaguchiko - Otsuki,2026-08-16,08:36:00,800
+122,Fujiyoshida - Kawaguchiko,2026-09-17,06:52:20,500
+123,Fujiyoshida - Mount Fuji,2026-08-27,11:36:19,1200
+124,Kawaguchiko - Otsuki,2026-08-29,19:04:08,1200
+125,Kawaguchiko - Otsuki,2025-12-24,04:41:42,1200
+126,Fujiyoshida - Mount Fuji,2026-05-08,10:37:12,500
+127,Fujiyoshida - Mount Fuji,2026-01-08,00:26:09,500
+128,Fujiyoshida - Kawaguchiko,2026-05-28,23:21:55,1200
+129,Fujiyoshida - Mount Fuji,2026-04-18,06:32:48,1000
+130,Fujiyoshida - Kawaguchiko,2026-10-31,06:38:53,800
+131,Fujiyoshida - Kawaguchiko,2026-08-25,12:50:29,800
+132,Fujiyoshida - Mount Fuji,2026-07-30,15:17:03,1200
+133,Fujiyoshida - Kawaguchiko,2026-08-08,18:00:45,1200
+134,Fujiyoshida - Kawaguchiko,2026-04-08,20:52:44,1000
+135,Kawaguchiko - Otsuki,2026-07-15,10:00:24,800
+136,Fujiyoshida - Kawaguchiko,2026-04-24,10:00:58,1200
+137,Fujiyoshida - Mount Fuji,2026-04-29,13:48:59,500
+138,Fujiyoshida - Kawaguchiko,2026-02-09,21:11:03,1500
+139,Fujiyoshida - Kawaguchiko,2025-11-29,03:53:49,500
+140,Fujiyoshida - Kawaguchiko,2025-11-13,11:49:05,800
+141,Kawaguchiko - Otsuki,2026-06-08,12:47:05,1200
+142,Kawaguchiko - Otsuki,2026-06-21,12:47:23,800
+143,Kawaguchiko - Otsuki,2025-11-07,13:01:31,500
+144,Fujiyoshida - Kawaguchiko,2026-08-06,03:34:51,1200
+145,Fujiyoshida - Kawaguchiko,2025-11-27,09:05:46,1200
+146,Kawaguchiko - Otsuki,2025-12-01,18:33:33,1200
+147,Kawaguchiko - Otsuki,2026-10-04,20:16:30,1200
+148,Fujiyoshida - Mount Fuji,2025-12-02,10:04:24,1500
+149,Fujiyoshida - Mount Fuji,2026-02-05,14:09:33,1200
+150,Fujiyoshida - Kawaguchiko,2026-07-22,01:01:39,800
+151,Kawaguchiko - Otsuki,2026-01-27,17:34:17,800
+152,Fujiyoshida - Kawaguchiko,2025-12-26,00:36:37,1500
+153,Fujiyoshida - Mount Fuji,2026-11-03,08:28:29,1500
+154,Fujiyoshida - Kawaguchiko,2026-06-16,07:15:08,1000
+155,Fujiyoshida - Kawaguchiko,2026-02-07,19:43:11,500
+156,Fujiyoshida - Mount Fuji,2026-05-07,10:43:26,1200
+157,Fujiyoshida - Mount Fuji,2026-04-12,15:56:31,1500
+158,Fujiyoshida - Kawaguchiko,2025-12-11,05:28:53,500
+159,Fujiyoshida - Mount Fuji,2026-07-18,20:02:49,500
+160,Fujiyoshida - Kawaguchiko,2026-03-22,02:29:28,500
+161,Fujiyoshida - Mount Fuji,2026-04-13,23:03:53,500
+162,Fujiyoshida - Mount Fuji,2026-10-06,06:41:17,800
+163,Kawaguchiko - Otsuki,2025-11-26,13:35:45,500
+164,Fujiyoshida - Mount Fuji,2026-07-16,21:14:08,800
+165,Fujiyoshida - Mount Fuji,2025-12-13,12:52:07,1500
+166,Fujiyoshida - Kawaguchiko,2026-04-10,20:19:33,1500
+167,Fujiyoshida - Kawaguchiko,2026-03-16,20:02:00,1200
+168,Fujiyoshida - Mount Fuji,2026-10-05,21:30:59,1500
+169,Fujiyoshida - Mount Fuji,2026-02-09,23:55:44,1500
+170,Kawaguchiko - Otsuki,2026-01-17,10:54:42,1000
+171,Fujiyoshida - Kawaguchiko,2026-04-28,05:59:54,1000
+172,Fujiyoshida - Kawaguchiko,2026-04-17,14:52:43,1000
+173,Kawaguchiko - Otsuki,2026-02-21,16:23:38,800
+174,Fujiyoshida - Mount Fuji,2026-02-10,16:50:17,1000
+175,Kawaguchiko - Otsuki,2026-04-26,12:02:37,1000
+176,Fujiyoshida - Kawaguchiko,2026-10-05,09:50:09,500
+177,Kawaguchiko - Otsuki,2025-12-13,09:06:52,1500
+178,Fujiyoshida - Mount Fuji,2026-07-16,09:15:44,500
+179,Fujiyoshida - Kawaguchiko,2026-09-25,19:24:04,1500
+180,Fujiyoshida - Kawaguchiko,2025-12-11,23:19:52,1500
+181,Kawaguchiko - Otsuki,2026-09-30,05:51:28,800
+182,Kawaguchiko - Otsuki,2026-01-08,11:25:49,500
+183,Fujiyoshida - Kawaguchiko,2026-05-12,05:29:03,1000
+184,Kawaguchiko - Otsuki,2026-01-27,21:50:58,800
+185,Kawaguchiko - Otsuki,2026-10-21,09:22:48,1500
+186,Fujiyoshida - Mount Fuji,2026-01-07,10:16:17,1000
+187,Fujiyoshida - Mount Fuji,2025-11-05,23:38:58,1500
+188,Fujiyoshida - Kawaguchiko,2026-02-15,04:19:47,1500
+189,Kawaguchiko - Otsuki,2026-09-05,07:03:57,500
+190,Fujiyoshida - Kawaguchiko,2026-02-23,21:47:33,1000
+191,Fujiyoshida - Kawaguchiko,2026-08-02,19:23:39,500
+192,Fujiyoshida - Mount Fuji,2026-09-05,16:43:06,1500
+193,Fujiyoshida - Kawaguchiko,2026-07-20,03:13:41,1000
+194,Kawaguchiko - Otsuki,2026-05-13,11:54:19,1500
+195,Fujiyoshida - Kawaguchiko,2026-01-17,17:06:49,1000
+196,Fujiyoshida - Kawaguchiko,2026-01-28,14:38:35,1000
+197,Fujiyoshida - Mount Fuji,2026-06-17,20:19:14,1200
+198,Kawaguchiko - Otsuki,2026-06-03,02:36:21,500
+199,Fujiyoshida - Kawaguchiko,2026-08-22,16:33:33,1200
+200,Kawaguchiko - Otsuki,2025-11-27,07:04:01,500
+201,Fujiyoshida - Kawaguchiko,2026-06-19,15:25:41,1000
+202,Fujiyoshida - Kawaguchiko,2026-05-19,05:05:01,1000
+203,Fujiyoshida - Kawaguchiko,2026-01-05,17:59:12,1200
+204,Fujiyoshida - Mount Fuji,2026-05-21,04:20:57,1200
+205,Fujiyoshida - Mount Fuji,2026-10-01,16:54:35,500
+206,Fujiyoshida - Kawaguchiko,2025-12-01,16:16:00,500
+207,Fujiyoshida - Mount Fuji,2025-12-01,11:58:30,800
+208,Fujiyoshida - Mount Fuji,2026-10-05,00:35:23,500
+209,Kawaguchiko - Otsuki,2026-04-10,19:08:53,1500
+210,Fujiyoshida - Mount Fuji,2026-11-05,08:37:16,800
+211,Kawaguchiko - Otsuki,2026-02-08,02:40:01,800
+212,Fujiyoshida - Kawaguchiko,2026-06-23,18:49:35,1000
+213,Kawaguchiko - Otsuki,2026-07-03,17:00:26,500
+214,Kawaguchiko - Otsuki,2026-04-16,02:22:01,800
+215,Fujiyoshida - Mount Fuji,2026-06-19,18:59:37,800
+216,Fujiyoshida - Mount Fuji,2026-05-27,09:57:51,500
+217,Kawaguchiko - Otsuki,2026-11-03,08:47:45,1500
+218,Kawaguchiko - Otsuki,2026-01-23,03:06:21,1500
+219,Fujiyoshida - Mount Fuji,2026-08-10,01:58:37,800
+220,Fujiyoshida - Kawaguchiko,2026-02-05,21:13:44,800
+221,Fujiyoshida - Kawaguchiko,2026-04-07,23:56:02,1200
+222,Fujiyoshida - Kawaguchiko,2026-07-23,00:13:08,800
+223,Fujiyoshida - Mount Fuji,2026-03-01,09:04:58,1000
+224,Kawaguchiko - Otsuki,2026-03-07,16:38:17,800
+225,Kawaguchiko - Otsuki,2026-11-03,01:39:13,800
+226,Fujiyoshida - Mount Fuji,2025-11-08,17:57:39,500
+227,Kawaguchiko - Otsuki,2026-07-04,06:47:14,500
+228,Kawaguchiko - Otsuki,2025-12-13,21:43:12,800
+229,Fujiyoshida - Kawaguchiko,2026-06-01,23:29:57,1200
+230,Kawaguchiko - Otsuki,2026-05-20,14:12:39,1000
+231,Fujiyoshida - Kawaguchiko,2025-12-26,15:52:44,800
+232,Fujiyoshida - Kawaguchiko,2026-10-13,19:36:49,800
+233,Kawaguchiko - Otsuki,2026-10-12,17:19:46,1000
+234,Kawaguchiko - Otsuki,2026-03-28,09:36:09,500
+235,Kawaguchiko - Otsuki,2026-01-05,03:16:32,1000
+236,Fujiyoshida - Mount Fuji,2026-09-24,18:08:06,1500
+237,Kawaguchiko - Otsuki,2026-08-05,02:30:11,1500
+238,Kawaguchiko - Otsuki,2026-06-30,13:52:08,500
+239,Fujiyoshida - Kawaguchiko,2026-07-16,21:24:55,1000
+240,Fujiyoshida - Kawaguchiko,2025-11-08,19:55:04,1500
+241,Kawaguchiko - Otsuki,2026-09-18,17:08:59,500
+242,Fujiyoshida - Kawaguchiko,2026-03-01,14:46:59,1500
+243,Kawaguchiko - Otsuki,2025-12-15,19:46:15,1000
+244,Fujiyoshida - Mount Fuji,2026-02-15,23:52:54,1000
+245,Kawaguchiko - Otsuki,2026-10-16,09:26:44,1500
+246,Fujiyoshida - Mount Fuji,2026-08-20,10:45:31,500
+247,Kawaguchiko - Otsuki,2026-01-04,06:02:20,1500
+248,Fujiyoshida - Kawaguchiko,2026-02-22,03:02:45,1000
+249,Fujiyoshida - Kawaguchiko,2026-01-25,08:20:35,1200
+250,Fujiyoshida - Kawaguchiko,2026-03-18,10:31:33,1500
+251,Fujiyoshida - Mount Fuji,2026-07-29,01:40:36,800
+252,Kawaguchiko - Otsuki,2026-10-02,08:31:47,1200
+253,Fujiyoshida - Kawaguchiko,2026-05-20,12:36:00,1000
+254,Fujiyoshida - Mount Fuji,2026-02-10,14:43:19,1000
+255,Fujiyoshida - Mount Fuji,2025-12-10,05:24:33,500
+256,Fujiyoshida - Mount Fuji,2026-04-18,13:24:30,1000
+257,Fujiyoshida - Mount Fuji,2026-02-20,18:46:46,1000
+258,Fujiyoshida - Mount Fuji,2025-11-06,14:13:31,1200
+259,Kawaguchiko - Otsuki,2026-08-31,12:57:52,1200
+260,Fujiyoshida - Mount Fuji,2026-07-10,22:24:14,1000
+261,Fujiyoshida - Mount Fuji,2026-01-06,09:27:43,800
+262,Fujiyoshida - Kawaguchiko,2026-04-25,02:11:24,1200
+263,Fujiyoshida - Mount Fuji,2026-08-06,05:11:00,1200
+264,Fujiyoshida - Mount Fuji,2026-06-10,08:12:03,800
+265,Fujiyoshida - Mount Fuji,2025-12-18,04:42:24,1500
+266,Kawaguchiko - Otsuki,2026-10-13,09:15:32,1200
+267,Fujiyoshida - Mount Fuji,2026-10-22,18:20:45,500
+268,Kawaguchiko - Otsuki,2026-06-04,11:37:19,1000
+269,Fujiyoshida - Kawaguchiko,2026-09-25,21:54:52,1200
+270,Fujiyoshida - Mount Fuji,2026-06-19,02:03:29,1500
+271,Fujiyoshida - Mount Fuji,2026-01-01,09:45:47,1000
+272,Kawaguchiko - Otsuki,2025-12-24,15:53:19,1200
+273,Kawaguchiko - Otsuki,2026-03-04,11:05:57,800
+274,Fujiyoshida - Mount Fuji,2026-10-20,17:27:11,1200
+275,Fujiyoshida - Mount Fuji,2026-10-05,14:13:07,800
+276,Fujiyoshida - Mount Fuji,2026-10-20,09:31:15,500
+277,Kawaguchiko - Otsuki,2026-01-25,20:37:47,1500
+278,Fujiyoshida - Mount Fuji,2026-02-09,17:16:45,1500
+279,Kawaguchiko - Otsuki,2025-12-14,17:31:17,500
+280,Fujiyoshida - Kawaguchiko,2026-09-03,23:31:39,1000
+281,Fujiyoshida - Kawaguchiko,2026-10-14,13:33:19,800
+282,Fujiyoshida - Kawaguchiko,2026-07-04,08:48:44,500
+283,Fujiyoshida - Kawaguchiko,2026-01-04,03:19:02,800
+284,Kawaguchiko - Otsuki,2026-10-06,00:04:42,1500
+285,Fujiyoshida - Kawaguchiko,2026-09-11,20:10:21,1200
+286,Kawaguchiko - Otsuki,2026-01-12,15:11:51,1500
+287,Fujiyoshida - Kawaguchiko,2025-11-14,00:48:09,1200
+288,Kawaguchiko - Otsuki,2026-08-18,12:20:51,1200
+289,Fujiyoshida - Kawaguchiko,2026-09-04,04:28:05,800
+290,Fujiyoshida - Mount Fuji,2026-09-12,15:10:05,500
+291,Fujiyoshida - Kawaguchiko,2026-10-06,22:53:58,1200
+292,Fujiyoshida - Kawaguchiko,2026-09-15,05:31:29,800
+293,Fujiyoshida - Mount Fuji,2026-02-16,21:12:40,1500
+294,Kawaguchiko - Otsuki,2026-09-06,08:44:02,500
+295,Fujiyoshida - Mount Fuji,2025-12-16,03:01:33,800
+296,Fujiyoshida - Kawaguchiko,2026-10-09,12:07:33,1200
+297,Fujiyoshida - Kawaguchiko,2026-10-04,01:32:02,1200
+298,Fujiyoshida - Mount Fuji,2026-01-30,09:49:44,1500
+299,Fujiyoshida - Mount Fuji,2026-09-18,21:34:34,1500
+300,Kawaguchiko - Otsuki,2026-03-20,13:26:37,1200
+301,Fujiyoshida - Mount Fuji,2026-09-19,10:04:03,1500
+302,Kawaguchiko - Otsuki,2026-10-09,21:59:57,1500
+303,Kawaguchiko - Otsuki,2026-01-30,04:23:09,800
+304,Fujiyoshida - Mount Fuji,2026-07-19,06:24:27,1200
+305,Kawaguchiko - Otsuki,2026-04-08,23:52:54,1000
+306,Fujiyoshida - Kawaguchiko,2026-02-21,11:05:28,1000
+307,Fujiyoshida - Mount Fuji,2026-09-01,16:32:44,1200
+308,Fujiyoshida - Mount Fuji,2026-03-21,02:45:46,800
+309,Kawaguchiko - Otsuki,2026-05-21,01:26:39,1200
+310,Fujiyoshida - Kawaguchiko,2026-07-26,17:08:35,1000
+311,Fujiyoshida - Kawaguchiko,2026-03-13,00:21:44,1000
+312,Kawaguchiko - Otsuki,2025-12-19,12:56:06,1000
+313,Fujiyoshida - Mount Fuji,2026-01-13,15:15:58,500
+314,Fujiyoshida - Kawaguchiko,2026-02-16,21:18:25,800
+315,Fujiyoshida - Kawaguchiko,2025-12-17,20:36:54,1200
+316,Fujiyoshida - Mount Fuji,2026-04-22,02:23:30,800
+317,Fujiyoshida - Mount Fuji,2026-08-14,18:40:49,800
+318,Fujiyoshida - Kawaguchiko,2026-03-06,15:05:28,1200
+319,Kawaguchiko - Otsuki,2026-06-28,11:44:22,1000
+320,Fujiyoshida - Mount Fuji,2025-12-19,02:01:21,1200
+321,Kawaguchiko - Otsuki,2026-10-20,04:09:58,500
+322,Fujiyoshida - Kawaguchiko,2026-01-17,03:53:42,1200
+323,Kawaguchiko - Otsuki,2025-11-22,22:53:28,1500
+324,Fujiyoshida - Mount Fuji,2026-04-23,00:53:05,500
+325,Fujiyoshida - Mount Fuji,2026-05-25,22:28:16,1200
+326,Kawaguchiko - Otsuki,2026-06-02,22:14:42,500
+327,Kawaguchiko - Otsuki,2026-08-11,06:27:33,1000
+328,Kawaguchiko - Otsuki,2026-08-18,13:29:05,1200
+329,Fujiyoshida - Mount Fuji,2026-01-20,18:34:19,1500
+330,Fujiyoshida - Mount Fuji,2026-04-21,05:00:05,800
+331,Kawaguchiko - Otsuki,2026-07-20,03:59:35,800
+332,Kawaguchiko - Otsuki,2026-07-05,09:58:27,1200
+333,Kawaguchiko - Otsuki,2026-07-20,13:53:47,500
+334,Kawaguchiko - Otsuki,2026-08-11,13:12:40,1000
+335,Fujiyoshida - Mount Fuji,2026-05-20,07:29:15,1200
+336,Fujiyoshida - Mount Fuji,2026-07-21,15:51:38,800
+337,Kawaguchiko - Otsuki,2026-03-11,17:10:51,800
+338,Fujiyoshida - Mount Fuji,2026-08-02,13:11:44,1500
+339,Fujiyoshida - Kawaguchiko,2026-06-08,18:07:55,1200
+340,Fujiyoshida - Mount Fuji,2026-01-18,06:00:31,1500
+341,Fujiyoshida - Mount Fuji,2026-07-21,16:58:07,500
+342,Fujiyoshida - Kawaguchiko,2026-07-26,23:38:47,1200
+343,Fujiyoshida - Kawaguchiko,2026-10-21,11:21:06,1200
+344,Fujiyoshida - Kawaguchiko,2026-07-02,04:30:36,500
+345,Kawaguchiko - Otsuki,2026-03-01,01:16:26,1200
+346,Kawaguchiko - Otsuki,2026-06-05,08:26:16,800
+347,Kawaguchiko - Otsuki,2025-11-05,20:28:11,1000
+348,Kawaguchiko - Otsuki,2026-02-24,02:51:12,1200
+349,Kawaguchiko - Otsuki,2026-04-20,03:23:57,1200
+350,Kawaguchiko - Otsuki,2026-06-18,15:43:14,500
+351,Kawaguchiko - Otsuki,2026-07-17,13:09:17,500
+352,Fujiyoshida - Mount Fuji,2026-05-04,15:37:22,1500
+353,Fujiyoshida - Kawaguchiko,2026-04-25,19:20:47,1000
+354,Fujiyoshida - Kawaguchiko,2026-01-26,07:09:59,500
+355,Fujiyoshida - Mount Fuji,2026-05-07,09:36:26,500
+356,Fujiyoshida - Kawaguchiko,2026-10-20,07:15:56,800
+357,Fujiyoshida - Kawaguchiko,2026-08-17,16:51:30,500
+358,Fujiyoshida - Mount Fuji,2026-07-18,14:30:28,800
+359,Fujiyoshida - Kawaguchiko,2026-02-23,15:05:56,800
+360,Kawaguchiko - Otsuki,2026-07-20,19:55:39,500
+361,Fujiyoshida - Mount Fuji,2026-07-03,03:35:09,800
+362,Kawaguchiko - Otsuki,2025-12-11,00:36:34,1000
+363,Kawaguchiko - Otsuki,2026-08-23,16:34:31,800
+364,Fujiyoshida - Mount Fuji,2026-07-24,12:25:22,1500
+365,Fujiyoshida - Mount Fuji,2026-01-31,05:30:35,500
+366,Fujiyoshida - Kawaguchiko,2026-01-21,12:03:49,1000
+367,Fujiyoshida - Kawaguchiko,2025-11-14,15:33:28,1500
+368,Fujiyoshida - Kawaguchiko,2026-02-08,13:52:01,1000
+369,Fujiyoshida - Mount Fuji,2026-06-30,21:44:52,1200
+370,Kawaguchiko - Otsuki,2025-12-03,10:19:30,800
+371,Fujiyoshida - Kawaguchiko,2026-04-14,21:41:02,1500
+372,Fujiyoshida - Mount Fuji,2026-06-16,17:08:06,800
+373,Fujiyoshida - Kawaguchiko,2026-08-10,23:29:23,1000
+374,Fujiyoshida - Mount Fuji,2026-04-03,19:28:10,1500
+375,Fujiyoshida - Kawaguchiko,2026-04-09,06:23:22,1500
+376,Fujiyoshida - Kawaguchiko,2026-01-01,09:50:44,1000
+377,Fujiyoshida - Mount Fuji,2026-07-30,19:36:35,1200
+378,Fujiyoshida - Mount Fuji,2026-10-17,07:45:32,1000
+379,Fujiyoshida - Kawaguchiko,2026-10-05,14:26:30,1500
+380,Fujiyoshida - Mount Fuji,2026-10-14,05:47:54,1000
+381,Fujiyoshida - Kawaguchiko,2026-09-03,01:35:05,1200
+382,Kawaguchiko - Otsuki,2026-01-28,16:29:27,500
+383,Kawaguchiko - Otsuki,2026-09-13,23:32:38,1000
+384,Fujiyoshida - Mount Fuji,2026-05-25,10:48:11,1200
+385,Fujiyoshida - Mount Fuji,2025-11-24,09:30:36,800
+386,Kawaguchiko - Otsuki,2026-02-09,09:13:31,800
+387,Fujiyoshida - Mount Fuji,2026-05-01,03:52:16,1500
+388,Fujiyoshida - Mount Fuji,2026-09-12,18:29:19,1000
+389,Fujiyoshida - Mount Fuji,2026-07-22,08:30:30,1500
+390,Kawaguchiko - Otsuki,2026-06-10,01:08:34,1200
+391,Kawaguchiko - Otsuki,2026-03-08,20:10:49,1500
+392,Kawaguchiko - Otsuki,2026-10-17,05:19:54,1000
+393,Fujiyoshida - Kawaguchiko,2026-06-30,02:19:05,500
+394,Kawaguchiko - Otsuki,2026-08-11,07:54:09,1200
+395,Fujiyoshida - Kawaguchiko,2026-04-19,21:48:25,1200
+396,Fujiyoshida - Mount Fuji,2026-10-23,10:21:01,1500
+397,Fujiyoshida - Mount Fuji,2026-04-27,21:23:16,1200
+398,Kawaguchiko - Otsuki,2026-08-20,02:19:48,500
+399,Kawaguchiko - Otsuki,2026-04-28,05:46:55,1000
+400,Fujiyoshida - Kawaguchiko,2026-08-23,04:14:48,1200
+401,Fujiyoshida - Kawaguchiko,2026-09-27,03:51:51,1000
+402,Kawaguchiko - Otsuki,2026-02-20,09:39:20,1000
+403,Kawaguchiko - Otsuki,2026-09-03,23:27:05,1500
+404,Fujiyoshida - Mount Fuji,2026-05-12,22:00:20,1000
+405,Fujiyoshida - Mount Fuji,2026-02-05,03:45:27,500
+406,Fujiyoshida - Mount Fuji,2026-04-24,20:37:15,800
+407,Fujiyoshida - Kawaguchiko,2026-08-09,19:28:56,800
+408,Fujiyoshida - Mount Fuji,2026-02-04,12:22:36,1200
+409,Kawaguchiko - Otsuki,2026-03-15,10:10:58,1500
+410,Fujiyoshida - Kawaguchiko,2026-10-17,13:21:07,1200
+411,Fujiyoshida - Mount Fuji,2025-12-06,07:20:35,1200
+412,Kawaguchiko - Otsuki,2026-01-02,00:50:52,500
+413,Fujiyoshida - Kawaguchiko,2026-04-02,05:11:20,1000
+414,Fujiyoshida - Kawaguchiko,2026-01-03,03:25:59,1200
+415,Fujiyoshida - Mount Fuji,2026-01-27,10:00:08,800
+416,Kawaguchiko - Otsuki,2026-04-15,22:29:49,1500
+417,Kawaguchiko - Otsuki,2026-03-13,16:09:17,1200
+418,Fujiyoshida - Mount Fuji,2026-05-04,02:59:35,1500
+419,Kawaguchiko - Otsuki,2025-11-29,21:31:10,1200
+420,Fujiyoshida - Mount Fuji,2026-09-24,17:22:23,1500
+421,Kawaguchiko - Otsuki,2026-04-05,09:03:59,1000
+422,Fujiyoshida - Mount Fuji,2026-06-19,07:37:27,1200
+423,Kawaguchiko - Otsuki,2025-11-12,22:57:05,1000
+424,Kawaguchiko - Otsuki,2026-06-16,10:07:22,800
+425,Fujiyoshida - Kawaguchiko,2026-05-09,13:08:50,800
+426,Kawaguchiko - Otsuki,2026-03-21,01:23:11,500
+427,Fujiyoshida - Mount Fuji,2026-08-24,04:05:48,1500
+428,Fujiyoshida - Mount Fuji,2026-10-02,19:55:50,800
+429,Fujiyoshida - Kawaguchiko,2026-06-02,14:27:59,800
+430,Fujiyoshida - Mount Fuji,2026-08-17,04:36:32,1200
+431,Kawaguchiko - Otsuki,2026-09-11,22:11:06,1500
+432,Fujiyoshida - Mount Fuji,2026-10-19,12:27:18,1500
+433,Kawaguchiko - Otsuki,2026-05-13,18:06:23,500
+434,Fujiyoshida - Kawaguchiko,2026-02-18,18:17:19,1000
+435,Fujiyoshida - Kawaguchiko,2026-05-12,09:58:53,1000
+436,Fujiyoshida - Kawaguchiko,2026-04-05,13:04:55,1000
+437,Fujiyoshida - Kawaguchiko,2026-07-22,03:54:49,1500
+438,Fujiyoshida - Kawaguchiko,2026-09-10,08:17:19,1000
+439,Fujiyoshida - Kawaguchiko,2026-08-13,05:00:57,500
+440,Fujiyoshida - Mount Fuji,2026-09-27,01:05:02,1000
+441,Fujiyoshida - Mount Fuji,2026-10-28,04:56:33,800
+442,Fujiyoshida - Mount Fuji,2026-07-04,17:09:34,1200
+443,Fujiyoshida - Kawaguchiko,2025-11-15,10:14:11,500
+444,Fujiyoshida - Mount Fuji,2026-06-22,00:55:55,1000
+445,Kawaguchiko - Otsuki,2026-07-20,15:00:15,1200
+446,Kawaguchiko - Otsuki,2025-12-07,15:06:07,1000
+447,Fujiyoshida - Kawaguchiko,2026-04-20,19:53:40,500
+448,Kawaguchiko - Otsuki,2026-10-07,13:51:10,1200
+449,Fujiyoshida - Kawaguchiko,2026-01-14,19:57:09,500
+450,Kawaguchiko - Otsuki,2026-02-14,16:15:53,1200
+451,Fujiyoshida - Kawaguchiko,2026-03-12,20:16:46,1500
+452,Fujiyoshida - Mount Fuji,2026-04-30,19:07:08,500
+453,Fujiyoshida - Kawaguchiko,2026-03-16,11:12:26,800
+454,Fujiyoshida - Mount Fuji,2026-10-12,05:35:46,1000
+455,Fujiyoshida - Kawaguchiko,2026-02-21,07:19:57,800
+456,Fujiyoshida - Kawaguchiko,2026-09-24,01:12:56,1500
+457,Kawaguchiko - Otsuki,2026-02-10,19:45:44,1500
+458,Fujiyoshida - Mount Fuji,2025-12-06,12:57:22,1500
+459,Fujiyoshida - Kawaguchiko,2025-11-12,02:22:28,1500
+460,Kawaguchiko - Otsuki,2026-06-02,14:16:16,1200
+461,Kawaguchiko - Otsuki,2026-03-20,01:43:47,1000
+462,Fujiyoshida - Mount Fuji,2026-07-15,12:27:08,1200
+463,Kawaguchiko - Otsuki,2026-09-04,10:47:45,1500
+464,Fujiyoshida - Mount Fuji,2025-11-20,13:37:58,500
+465,Fujiyoshida - Mount Fuji,2025-11-17,06:14:08,500
+466,Fujiyoshida - Kawaguchiko,2026-01-21,13:09:15,800
+467,Kawaguchiko - Otsuki,2026-07-04,11:36:37,500
+468,Fujiyoshida - Kawaguchiko,2026-02-05,05:44:42,800
+469,Fujiyoshida - Kawaguchiko,2026-05-07,11:45:28,1500
+470,Fujiyoshida - Kawaguchiko,2025-12-19,12:57:21,800
+471,Fujiyoshida - Kawaguchiko,2026-01-28,11:34:36,1200
+472,Kawaguchiko - Otsuki,2026-08-03,23:19:11,1500
+473,Kawaguchiko - Otsuki,2026-08-29,22:32:35,1000
+474,Fujiyoshida - Kawaguchiko,2026-01-09,13:04:10,800
+475,Kawaguchiko - Otsuki,2026-06-28,19:01:51,1000
+476,Fujiyoshida - Mount Fuji,2026-08-10,17:31:01,1200
+477,Fujiyoshida - Kawaguchiko,2026-09-03,20:11:12,800
+478,Kawaguchiko - Otsuki,2026-01-07,21:56:35,1500
+479,Fujiyoshida - Mount Fuji,2025-12-16,06:53:30,800
+480,Kawaguchiko - Otsuki,2025-11-14,17:44:45,500
+481,Fujiyoshida - Mount Fuji,2026-06-16,13:23:42,800
+482,Fujiyoshida - Mount Fuji,2026-10-23,07:19:16,800
+483,Kawaguchiko - Otsuki,2026-04-08,18:53:04,800
+484,Fujiyoshida - Kawaguchiko,2026-01-21,21:39:47,500
+485,Fujiyoshida - Kawaguchiko,2026-06-22,07:32:45,1000
+486,Fujiyoshida - Mount Fuji,2026-09-23,04:39:49,1500
+487,Kawaguchiko - Otsuki,2026-02-07,18:29:42,1200
+488,Fujiyoshida - Kawaguchiko,2026-08-02,02:47:54,1200
+489,Fujiyoshida - Mount Fuji,2026-03-02,08:24:58,1000
+490,Fujiyoshida - Mount Fuji,2026-06-26,12:08:55,1200
+491,Kawaguchiko - Otsuki,2025-12-22,08:02:03,1500
+492,Fujiyoshida - Mount Fuji,2026-06-12,12:10:11,1200
+493,Kawaguchiko - Otsuki,2025-11-20,19:06:44,500
+494,Fujiyoshida - Mount Fuji,2026-05-30,09:26:12,500
+495,Kawaguchiko - Otsuki,2026-07-19,14:08:31,1000
+496,Fujiyoshida - Mount Fuji,2025-12-01,17:22:03,1000
+497,Fujiyoshida - Kawaguchiko,2026-07-14,08:19:34,500
+498,Fujiyoshida - Kawaguchiko,2025-11-09,14:47:58,1500
+499,Fujiyoshida - Mount Fuji,2026-09-20,00:42:30,500
+500,Fujiyoshida - Mount Fuji,2025-12-15,06:46:48,1000
+501,Fujiyoshida - Mount Fuji,2026-03-25,13:17:00,500
+502,Fujiyoshida - Kawaguchiko,2026-10-17,15:09:53,1200
+503,Fujiyoshida - Mount Fuji,2026-05-02,06:02:36,1200
+504,Kawaguchiko - Otsuki,2026-01-03,02:12:05,800
+505,Fujiyoshida - Mount Fuji,2026-01-12,13:56:49,1200
+506,Fujiyoshida - Mount Fuji,2026-05-26,04:57:48,1200
+507,Fujiyoshida - Kawaguchiko,2026-02-17,14:01:37,1200
+508,Kawaguchiko - Otsuki,2026-09-14,08:38:37,1200
+509,Kawaguchiko - Otsuki,2026-09-01,09:29:51,1000
+510,Fujiyoshida - Mount Fuji,2026-05-04,06:18:15,500
+511,Fujiyoshida - Kawaguchiko,2026-09-21,18:07:13,1000
+512,Kawaguchiko - Otsuki,2026-06-23,00:10:35,1200
+513,Kawaguchiko - Otsuki,2026-03-10,19:34:14,1200
+514,Fujiyoshida - Mount Fuji,2026-09-23,00:25:54,500
+515,Kawaguchiko - Otsuki,2026-02-21,17:52:06,500
+516,Kawaguchiko - Otsuki,2026-02-07,04:32:31,1000
+517,Kawaguchiko - Otsuki,2026-05-04,16:33:15,500
+518,Kawaguchiko - Otsuki,2026-06-30,21:56:55,1500
+519,Fujiyoshida - Kawaguchiko,2026-04-01,04:24:08,1500
+520,Kawaguchiko - Otsuki,2025-11-16,01:18:43,1200
+521,Fujiyoshida - Kawaguchiko,2026-10-01,06:30:11,800
+522,Fujiyoshida - Mount Fuji,2026-01-14,02:51:58,1000
+523,Fujiyoshida - Mount Fuji,2026-01-26,05:20:03,1200
+524,Fujiyoshida - Mount Fuji,2026-09-10,09:13:01,1200
+525,Fujiyoshida - Kawaguchiko,2026-03-17,22:47:00,800
+526,Kawaguchiko - Otsuki,2026-10-12,12:18:45,1500
+527,Fujiyoshida - Kawaguchiko,2026-08-04,16:37:28,1000
+528,Kawaguchiko - Otsuki,2026-06-08,07:22:29,1200
+529,Fujiyoshida - Kawaguchiko,2026-05-24,17:35:53,500
+530,Fujiyoshida - Mount Fuji,2025-12-08,22:29:28,1500
+531,Fujiyoshida - Kawaguchiko,2026-08-11,19:49:05,800
+532,Kawaguchiko - Otsuki,2026-05-13,23:30:26,1500
+533,Fujiyoshida - Kawaguchiko,2026-08-26,06:48:36,1500
+534,Kawaguchiko - Otsuki,2026-07-31,08:36:05,500
+535,Fujiyoshida - Kawaguchiko,2026-07-13,22:32:01,500
+536,Kawaguchiko - Otsuki,2026-05-14,10:31:50,500
+537,Fujiyoshida - Mount Fuji,2026-09-08,14:00:26,800
+538,Kawaguchiko - Otsuki,2025-12-11,06:21:38,1000
+539,Fujiyoshida - Mount Fuji,2026-01-30,10:40:03,1000
+540,Kawaguchiko - Otsuki,2026-07-31,09:10:57,1200
+541,Kawaguchiko - Otsuki,2026-03-03,19:34:49,800
+542,Kawaguchiko - Otsuki,2026-06-18,01:16:27,1500
+543,Fujiyoshida - Kawaguchiko,2026-05-07,15:28:35,1200
+544,Fujiyoshida - Kawaguchiko,2026-05-30,03:16:17,1500
+545,Fujiyoshida - Mount Fuji,2026-04-19,07:49:07,800
+546,Fujiyoshida - Kawaguchiko,2026-06-06,20:41:49,1000
+547,Kawaguchiko - Otsuki,2026-03-21,13:18:21,1000
+548,Fujiyoshida - Mount Fuji,2026-04-30,15:56:33,1000
+549,Fujiyoshida - Kawaguchiko,2026-03-04,16:08:04,1000
+550,Fujiyoshida - Mount Fuji,2026-02-02,22:02:10,1000
+551,Fujiyoshida - Mount Fuji,2026-08-12,17:00:16,1500
+552,Fujiyoshida - Mount Fuji,2026-03-07,13:10:54,1200
+553,Fujiyoshida - Kawaguchiko,2026-08-20,23:18:08,1200
+554,Fujiyoshida - Mount Fuji,2026-08-28,02:35:48,1200
+555,Kawaguchiko - Otsuki,2026-01-15,18:38:28,1000
+556,Fujiyoshida - Mount Fuji,2026-01-28,02:50:12,1500
+557,Kawaguchiko - Otsuki,2026-05-12,10:27:11,1200
+558,Kawaguchiko - Otsuki,2026-08-13,06:17:15,800
+559,Fujiyoshida - Mount Fuji,2026-08-27,22:04:57,800
+560,Fujiyoshida - Mount Fuji,2026-06-24,23:17:58,1200
+561,Fujiyoshida - Kawaguchiko,2025-12-14,02:09:55,1200
+562,Fujiyoshida - Kawaguchiko,2026-01-19,05:53:55,1000
+563,Fujiyoshida - Mount Fuji,2026-02-01,17:56:33,1200
+564,Fujiyoshida - Mount Fuji,2026-01-13,21:38:38,1200
+565,Kawaguchiko - Otsuki,2025-11-10,21:28:39,800
+566,Kawaguchiko - Otsuki,2026-05-31,05:40:38,500
+567,Fujiyoshida - Kawaguchiko,2026-02-19,07:10:20,1500
+568,Fujiyoshida - Mount Fuji,2025-11-26,19:28:50,1000
+569,Fujiyoshida - Kawaguchiko,2026-02-26,09:40:34,1200
+570,Fujiyoshida - Kawaguchiko,2025-12-24,08:04:11,1500
+571,Kawaguchiko - Otsuki,2026-10-08,18:01:21,500
+572,Fujiyoshida - Mount Fuji,2026-05-14,19:54:45,800
+573,Kawaguchiko - Otsuki,2026-10-09,20:35:45,800
+574,Fujiyoshida - Kawaguchiko,2026-06-15,07:00:56,1200
+575,Kawaguchiko - Otsuki,2026-05-06,12:08:53,1000
+576,Fujiyoshida - Mount Fuji,2026-04-25,07:00:30,1200
+577,Fujiyoshida - Mount Fuji,2026-01-15,23:24:28,500
+578,Kawaguchiko - Otsuki,2026-02-11,00:33:46,1500
+579,Kawaguchiko - Otsuki,2025-12-19,19:05:18,1000
+580,Fujiyoshida - Mount Fuji,2025-11-30,15:17:53,1200
+581,Fujiyoshida - Mount Fuji,2026-05-14,07:44:11,500
+582,Fujiyoshida - Mount Fuji,2026-06-17,22:59:18,500
+583,Fujiyoshida - Kawaguchiko,2026-07-29,11:03:28,1000
+584,Fujiyoshida - Kawaguchiko,2026-01-02,07:49:25,500
+585,Kawaguchiko - Otsuki,2026-09-16,10:53:36,500
+586,Fujiyoshida - Mount Fuji,2026-03-02,04:23:15,500
+587,Kawaguchiko - Otsuki,2026-02-09,03:06:32,800
+588,Fujiyoshida - Mount Fuji,2026-06-09,08:16:40,1000
+589,Fujiyoshida - Kawaguchiko,2026-04-15,02:33:57,500
+590,Kawaguchiko - Otsuki,2026-06-24,23:16:32,500
+591,Kawaguchiko - Otsuki,2026-07-03,11:37:09,1000
+592,Kawaguchiko - Otsuki,2026-09-02,14:39:33,1200
+593,Fujiyoshida - Kawaguchiko,2026-04-01,14:20:39,800
+594,Fujiyoshida - Mount Fuji,2026-10-23,21:21:59,1200
+595,Fujiyoshida - Mount Fuji,2026-02-28,20:55:03,800
+596,Fujiyoshida - Kawaguchiko,2026-04-20,06:24:34,800
+597,Fujiyoshida - Kawaguchiko,2026-06-13,17:13:41,1500
+598,Kawaguchiko - Otsuki,2025-11-28,11:00:09,1500
+599,Fujiyoshida - Mount Fuji,2026-08-19,11:07:47,800
+600,Kawaguchiko - Otsuki,2026-08-28,14:18:46,1500
+601,Fujiyoshida - Kawaguchiko,2026-07-05,01:26:02,800
+602,Kawaguchiko - Otsuki,2026-02-15,00:43:53,1000
+603,Kawaguchiko - Otsuki,2025-12-06,16:12:16,1000
+604,Fujiyoshida - Mount Fuji,2026-02-06,03:49:16,500
+605,Kawaguchiko - Otsuki,2026-06-07,17:56:31,1000
+606,Fujiyoshida - Mount Fuji,2026-01-04,12:07:57,1500
+607,Fujiyoshida - Kawaguchiko,2026-04-12,07:55:33,500
+608,Kawaguchiko - Otsuki,2026-07-30,06:10:25,1000
+609,Fujiyoshida - Mount Fuji,2026-05-06,06:56:08,1000
+610,Fujiyoshida - Mount Fuji,2025-11-17,08:57:06,1200
+611,Fujiyoshida - Mount Fuji,2026-02-24,11:34:52,1000
+612,Kawaguchiko - Otsuki,2026-02-22,20:24:38,1000
+613,Fujiyoshida - Kawaguchiko,2026-10-04,00:14:09,1200
+614,Kawaguchiko - Otsuki,2025-12-02,01:04:38,500
+615,Fujiyoshida - Kawaguchiko,2026-02-03,12:58:49,1200
+616,Fujiyoshida - Mount Fuji,2026-09-06,13:39:53,1000
+617,Fujiyoshida - Mount Fuji,2026-07-05,07:11:34,1000
+618,Fujiyoshida - Mount Fuji,2026-07-19,04:25:01,1000
+619,Fujiyoshida - Kawaguchiko,2026-11-02,19:45:29,1200
+620,Kawaguchiko - Otsuki,2026-04-19,18:43:45,500
+621,Fujiyoshida - Mount Fuji,2026-06-04,16:03:31,500
+622,Fujiyoshida - Mount Fuji,2026-07-14,03:38:08,1200
+623,Kawaguchiko - Otsuki,2026-10-23,07:56:29,800
+624,Fujiyoshida - Mount Fuji,2026-09-22,07:15:00,1000
+625,Fujiyoshida - Kawaguchiko,2025-12-02,07:28:39,800
+626,Fujiyoshida - Mount Fuji,2026-01-08,21:21:23,1000
+627,Fujiyoshida - Mount Fuji,2026-03-04,21:35:35,800
+628,Fujiyoshida - Mount Fuji,2026-08-22,14:29:24,500
+629,Fujiyoshida - Mount Fuji,2026-06-14,10:55:26,500
+630,Kawaguchiko - Otsuki,2026-04-24,19:50:41,1200
+631,Fujiyoshida - Kawaguchiko,2026-05-06,04:25:31,1500
+632,Kawaguchiko - Otsuki,2026-03-03,23:24:00,800
+633,Fujiyoshida - Kawaguchiko,2026-04-10,17:10:42,1000
+634,Kawaguchiko - Otsuki,2026-05-18,07:33:03,1200
+635,Fujiyoshida - Kawaguchiko,2026-05-15,13:20:12,800
+636,Fujiyoshida - Kawaguchiko,2025-12-06,06:45:55,1500
+637,Kawaguchiko - Otsuki,2025-11-20,03:08:15,1500
+638,Fujiyoshida - Mount Fuji,2026-08-17,08:18:43,1000
+639,Fujiyoshida - Kawaguchiko,2026-06-27,22:16:23,1000
+640,Kawaguchiko - Otsuki,2025-11-15,22:36:38,1000
+641,Fujiyoshida - Mount Fuji,2026-02-01,18:38:35,1000
+642,Fujiyoshida - Kawaguchiko,2026-09-25,15:37:58,1200
+643,Fujiyoshida - Kawaguchiko,2026-06-21,15:08:47,800
+644,Fujiyoshida - Kawaguchiko,2026-08-29,15:35:06,1200
+645,Fujiyoshida - Mount Fuji,2026-09-20,17:35:19,1000
+646,Fujiyoshida - Kawaguchiko,2026-06-16,23:07:43,1200
+647,Fujiyoshida - Kawaguchiko,2026-08-28,03:55:50,1000
+648,Fujiyoshida - Mount Fuji,2026-01-12,08:40:21,500
+649,Kawaguchiko - Otsuki,2026-05-25,08:33:03,1000
+650,Fujiyoshida - Mount Fuji,2026-04-25,14:51:40,1000
+651,Fujiyoshida - Mount Fuji,2026-01-14,10:43:12,1200
+652,Fujiyoshida - Mount Fuji,2026-04-23,15:49:54,1000
+653,Fujiyoshida - Kawaguchiko,2026-09-17,21:51:59,800
+654,Kawaguchiko - Otsuki,2025-12-10,04:07:22,500
+655,Fujiyoshida - Mount Fuji,2026-03-20,13:07:43,1500
+656,Kawaguchiko - Otsuki,2026-03-14,22:42:38,1500
+657,Fujiyoshida - Kawaguchiko,2026-07-23,20:15:28,500
+658,Fujiyoshida - Mount Fuji,2026-10-04,07:45:47,1200
+659,Fujiyoshida - Mount Fuji,2026-03-13,11:51:43,1000
+660,Fujiyoshida - Mount Fuji,2026-08-01,22:47:07,1200
+661,Fujiyoshida - Kawaguchiko,2026-02-24,14:28:28,800
+662,Fujiyoshida - Kawaguchiko,2026-04-09,07:02:38,500
+663,Kawaguchiko - Otsuki,2026-08-27,17:24:40,1200
+664,Fujiyoshida - Kawaguchiko,2025-11-19,18:13:28,500
+665,Fujiyoshida - Kawaguchiko,2025-12-09,08:47:29,1500
+666,Fujiyoshida - Kawaguchiko,2026-02-11,00:19:28,1200
+667,Kawaguchiko - Otsuki,2025-12-20,18:47:25,1000
+668,Fujiyoshida - Mount Fuji,2026-04-10,08:37:16,1500
+669,Kawaguchiko - Otsuki,2026-09-21,14:38:13,1500
+670,Fujiyoshida - Mount Fuji,2026-07-18,05:41:10,800
+671,Kawaguchiko - Otsuki,2026-05-03,07:46:49,500
+672,Kawaguchiko - Otsuki,2025-11-26,09:20:41,1500
+673,Kawaguchiko - Otsuki,2026-05-25,01:47:42,1000
+674,Fujiyoshida - Kawaguchiko,2026-07-04,11:55:09,1000
+675,Fujiyoshida - Kawaguchiko,2026-05-17,14:50:49,1200
+676,Kawaguchiko - Otsuki,2026-04-25,16:00:56,800
+677,Kawaguchiko - Otsuki,2025-11-25,11:13:14,500
+678,Fujiyoshida - Mount Fuji,2026-02-16,22:16:42,1000
+679,Fujiyoshida - Mount Fuji,2025-12-25,00:04:47,1000
+680,Fujiyoshida - Kawaguchiko,2026-04-24,02:22:02,1200
+681,Kawaguchiko - Otsuki,2026-05-12,01:28:59,800
+682,Fujiyoshida - Kawaguchiko,2025-11-16,06:55:29,1200
+683,Fujiyoshida - Kawaguchiko,2026-06-29,01:12:58,800
+684,Fujiyoshida - Mount Fuji,2026-02-05,17:56:53,1500
+685,Fujiyoshida - Kawaguchiko,2026-01-05,17:40:44,500
+686,Kawaguchiko - Otsuki,2026-06-06,21:08:08,800
+687,Fujiyoshida - Kawaguchiko,2026-06-07,15:55:40,1500
+688,Fujiyoshida - Kawaguchiko,2025-12-11,23:09:37,500
+689,Fujiyoshida - Mount Fuji,2026-09-27,02:11:42,800
+690,Fujiyoshida - Mount Fuji,2026-05-03,15:17:05,800
+691,Fujiyoshida - Kawaguchiko,2026-07-14,00:44:28,1000
+692,Fujiyoshida - Kawaguchiko,2026-01-03,04:34:06,1500
+693,Fujiyoshida - Kawaguchiko,2026-11-02,06:32:05,1000
+694,Fujiyoshida - Kawaguchiko,2026-02-26,01:58:50,800
+695,Fujiyoshida - Mount Fuji,2026-08-05,00:18:09,1000
+696,Fujiyoshida - Kawaguchiko,2026-04-15,04:13:36,500
+697,Fujiyoshida - Mount Fuji,2026-05-11,02:04:21,500
+698,Fujiyoshida - Kawaguchiko,2026-02-07,11:44:34,500
+699,Kawaguchiko - Otsuki,2026-06-07,02:17:36,800
+700,Fujiyoshida - Mount Fuji,2026-04-02,15:30:50,1000
+701,Fujiyoshida - Kawaguchiko,2026-10-29,14:39:44,800
+702,Kawaguchiko - Otsuki,2026-05-21,04:50:38,500
+703,Fujiyoshida - Kawaguchiko,2026-10-12,22:23:53,1200
+704,Fujiyoshida - Mount Fuji,2026-10-06,03:20:11,500
+705,Fujiyoshida - Mount Fuji,2026-02-20,22:40:14,500
+706,Kawaguchiko - Otsuki,2026-09-07,10:47:47,1200
+707,Kawaguchiko - Otsuki,2026-03-16,19:44:15,1500
+708,Fujiyoshida - Mount Fuji,2026-05-21,14:41:57,500
+709,Kawaguchiko - Otsuki,2026-09-19,18:14:12,1500
+710,Fujiyoshida - Kawaguchiko,2026-02-22,02:17:01,1500
+711,Fujiyoshida - Kawaguchiko,2026-02-28,09:59:18,1500
+712,Kawaguchiko - Otsuki,2026-06-18,21:59:36,1200
+713,Fujiyoshida - Mount Fuji,2026-05-14,08:37:05,500
+714,Fujiyoshida - Kawaguchiko,2026-04-27,11:49:45,1200
+715,Kawaguchiko - Otsuki,2026-05-12,02:27:09,1200
+716,Fujiyoshida - Mount Fuji,2026-03-14,23:33:48,500
+717,Kawaguchiko - Otsuki,2026-08-28,00:39:42,1200
+718,Fujiyoshida - Kawaguchiko,2026-03-31,15:38:34,500
+719,Kawaguchiko - Otsuki,2026-11-02,19:39:59,1500
+720,Fujiyoshida - Kawaguchiko,2026-10-08,23:31:20,500
+721,Fujiyoshida - Kawaguchiko,2026-08-02,13:03:20,1000
+722,Fujiyoshida - Mount Fuji,2026-06-15,19:00:38,1500
+723,Fujiyoshida - Mount Fuji,2026-02-03,06:17:59,1000
+724,Kawaguchiko - Otsuki,2026-04-13,20:37:41,1500
+725,Fujiyoshida - Mount Fuji,2026-03-08,17:55:36,1000
+726,Kawaguchiko - Otsuki,2026-05-07,12:48:56,1500
+727,Fujiyoshida - Mount Fuji,2026-10-25,16:15:51,1200
+728,Fujiyoshida - Kawaguchiko,2026-04-02,00:56:41,500
+729,Fujiyoshida - Mount Fuji,2026-07-20,01:13:36,1500
+730,Fujiyoshida - Mount Fuji,2026-09-19,00:29:03,800
+731,Kawaguchiko - Otsuki,2026-01-03,11:02:47,1200
+732,Fujiyoshida - Kawaguchiko,2025-11-19,20:49:59,1200
+733,Kawaguchiko - Otsuki,2026-05-19,00:20:23,1200
+734,Kawaguchiko - Otsuki,2026-03-13,13:48:48,1200
+735,Fujiyoshida - Mount Fuji,2026-10-10,20:53:08,500
+736,Kawaguchiko - Otsuki,2025-12-13,14:02:26,1200
+737,Kawaguchiko - Otsuki,2026-10-24,00:12:59,1000
+738,Kawaguchiko - Otsuki,2025-11-10,10:31:45,800
+739,Fujiyoshida - Mount Fuji,2025-12-30,01:46:15,1200
+740,Fujiyoshida - Kawaguchiko,2026-10-09,16:16:23,500
+741,Fujiyoshida - Kawaguchiko,2026-01-03,20:47:26,500
+742,Kawaguchiko - Otsuki,2026-05-06,21:59:35,500
+743,Fujiyoshida - Mount Fuji,2026-02-15,23:38:32,1000
+744,Fujiyoshida - Kawaguchiko,2026-07-05,06:23:26,1500
+745,Fujiyoshida - Kawaguchiko,2026-04-08,18:39:53,1500
+746,Fujiyoshida - Mount Fuji,2025-12-06,13:00:22,1500
+747,Kawaguchiko - Otsuki,2026-10-02,05:54:44,500
+748,Kawaguchiko - Otsuki,2026-10-04,06:06:34,1000
+749,Fujiyoshida - Mount Fuji,2026-04-01,15:44:09,1200
+750,Fujiyoshida - Mount Fuji,2026-07-06,19:38:32,500
+751,Kawaguchiko - Otsuki,2026-10-15,00:49:35,1500
+752,Kawaguchiko - Otsuki,2026-05-13,00:37:26,1000
+753,Fujiyoshida - Kawaguchiko,2025-11-18,00:55:02,1500
+754,Fujiyoshida - Mount Fuji,2025-12-01,05:54:22,800
+755,Fujiyoshida - Kawaguchiko,2026-07-08,20:14:42,1200
+756,Fujiyoshida - Kawaguchiko,2026-10-28,20:15:09,500
+757,Kawaguchiko - Otsuki,2026-02-01,23:29:20,1500
+758,Kawaguchiko - Otsuki,2025-12-10,10:03:48,500
+759,Kawaguchiko - Otsuki,2025-12-13,02:11:16,1500
+760,Fujiyoshida - Kawaguchiko,2026-07-09,07:14:00,1200
+761,Fujiyoshida - Mount Fuji,2026-10-09,02:54:15,1500
+762,Fujiyoshida - Mount Fuji,2026-04-26,00:27:29,1500
+763,Fujiyoshida - Kawaguchiko,2026-08-01,06:28:19,1500
+764,Fujiyoshida - Mount Fuji,2026-10-21,11:42:39,1000
+765,Fujiyoshida - Kawaguchiko,2025-11-22,09:01:35,800
+766,Kawaguchiko - Otsuki,2026-09-10,20:25:21,1000
+767,Kawaguchiko - Otsuki,2026-02-26,15:42:48,1000
+768,Fujiyoshida - Kawaguchiko,2026-03-30,18:40:35,800
+769,Fujiyoshida - Kawaguchiko,2025-12-31,13:26:39,1500
+770,Fujiyoshida - Mount Fuji,2026-05-30,14:26:25,1200
+771,Fujiyoshida - Kawaguchiko,2026-06-12,05:45:45,800
+772,Fujiyoshida - Mount Fuji,2026-09-08,08:07:06,500
+773,Fujiyoshida - Kawaguchiko,2026-01-10,08:56:21,1500
+774,Fujiyoshida - Kawaguchiko,2025-12-05,00:00:40,1200
+775,Kawaguchiko - Otsuki,2026-10-09,04:33:49,1200
+776,Kawaguchiko - Otsuki,2026-07-03,09:39:01,800
+777,Kawaguchiko - Otsuki,2026-02-06,14:04:38,1000
+778,Fujiyoshida - Mount Fuji,2026-10-25,10:46:48,1000
+779,Fujiyoshida - Mount Fuji,2025-12-30,01:48:00,1500
+780,Fujiyoshida - Kawaguchiko,2026-05-03,04:56:02,500
+781,Fujiyoshida - Kawaguchiko,2026-02-11,16:28:48,800
+782,Fujiyoshida - Mount Fuji,2026-02-12,09:59:00,500
+783,Fujiyoshida - Mount Fuji,2025-11-08,06:19:28,500
+784,Kawaguchiko - Otsuki,2026-05-04,02:58:12,1200
+785,Fujiyoshida - Mount Fuji,2026-07-26,18:29:29,1200
+786,Kawaguchiko - Otsuki,2026-01-05,20:20:24,1500
+787,Kawaguchiko - Otsuki,2026-04-25,01:55:16,1200
+788,Kawaguchiko - Otsuki,2026-06-21,12:27:33,800
+789,Fujiyoshida - Mount Fuji,2026-07-11,06:08:28,500
+790,Kawaguchiko - Otsuki,2026-07-31,05:24:09,1200
+791,Fujiyoshida - Kawaguchiko,2026-05-01,06:35:44,1000
+792,Fujiyoshida - Mount Fuji,2026-01-21,14:27:28,1500
+793,Kawaguchiko - Otsuki,2026-10-02,04:50:10,1500
+794,Fujiyoshida - Mount Fuji,2025-12-16,18:42:48,1000
+795,Fujiyoshida - Kawaguchiko,2026-04-02,05:10:36,800
+796,Kawaguchiko - Otsuki,2026-03-24,00:40:30,1500
+797,Fujiyoshida - Kawaguchiko,2026-02-27,16:13:16,500
+798,Fujiyoshida - Kawaguchiko,2026-02-27,07:28:46,1000
+799,Fujiyoshida - Kawaguchiko,2026-09-23,09:22:49,800
+800,Kawaguchiko - Otsuki,2026-04-07,05:55:38,1000
+801,Kawaguchiko - Otsuki,2025-11-08,05:48:31,500
+802,Fujiyoshida - Kawaguchiko,2026-10-06,15:19:58,1200
+803,Fujiyoshida - Mount Fuji,2026-09-03,20:15:59,1200
+804,Fujiyoshida - Kawaguchiko,2025-11-24,07:33:50,800
+805,Kawaguchiko - Otsuki,2026-08-21,05:22:02,1500
+806,Fujiyoshida - Mount Fuji,2026-09-24,09:27:41,800
+807,Fujiyoshida - Mount Fuji,2026-09-02,18:37:33,1500
+808,Fujiyoshida - Mount Fuji,2026-02-02,16:22:28,1000
+809,Fujiyoshida - Kawaguchiko,2026-09-12,23:38:14,1200
+810,Fujiyoshida - Mount Fuji,2026-01-29,05:21:21,500
+811,Kawaguchiko - Otsuki,2026-01-17,08:00:31,500
+812,Kawaguchiko - Otsuki,2026-02-10,22:14:54,500
+813,Kawaguchiko - Otsuki,2026-08-25,18:31:40,1500
+814,Kawaguchiko - Otsuki,2026-08-30,01:06:10,1500
+815,Kawaguchiko - Otsuki,2026-07-27,15:59:31,1200
+816,Kawaguchiko - Otsuki,2026-07-06,00:32:30,500
+817,Kawaguchiko - Otsuki,2026-10-21,13:20:28,500
+818,Kawaguchiko - Otsuki,2026-07-14,20:29:03,800
+819,Fujiyoshida - Mount Fuji,2026-03-04,00:28:42,1200
+820,Fujiyoshida - Mount Fuji,2026-04-25,06:43:02,1000
+821,Fujiyoshida - Kawaguchiko,2026-06-18,16:12:08,1200
+822,Fujiyoshida - Kawaguchiko,2026-08-16,06:11:51,800
+823,Kawaguchiko - Otsuki,2025-12-10,00:14:38,1500
+824,Kawaguchiko - Otsuki,2026-03-11,17:42:11,1500
+825,Fujiyoshida - Kawaguchiko,2026-04-15,13:23:06,1200
+826,Kawaguchiko - Otsuki,2026-01-21,20:23:20,1000
+827,Fujiyoshida - Kawaguchiko,2026-09-06,01:15:34,1000
+828,Fujiyoshida - Kawaguchiko,2026-10-11,10:31:05,500
+829,Fujiyoshida - Mount Fuji,2026-05-30,04:14:07,500
+830,Fujiyoshida - Mount Fuji,2026-10-25,16:53:51,1500
+831,Fujiyoshida - Kawaguchiko,2026-09-23,18:34:21,1000
+832,Kawaguchiko - Otsuki,2026-02-12,18:38:05,800
+833,Fujiyoshida - Kawaguchiko,2026-05-11,09:07:34,500
+834,Fujiyoshida - Kawaguchiko,2026-02-27,19:59:47,1000
+835,Fujiyoshida - Kawaguchiko,2026-10-09,19:31:10,800
+836,Fujiyoshida - Mount Fuji,2026-09-13,13:24:25,800
+837,Fujiyoshida - Mount Fuji,2026-05-05,13:49:08,500
+838,Fujiyoshida - Kawaguchiko,2025-12-29,12:53:07,1200
+839,Kawaguchiko - Otsuki,2026-01-31,02:48:59,1500
+840,Fujiyoshida - Mount Fuji,2026-08-13,10:59:10,1200
+841,Fujiyoshida - Mount Fuji,2026-04-08,03:13:23,1500
+842,Fujiyoshida - Mount Fuji,2026-06-09,09:19:09,1500
+843,Kawaguchiko - Otsuki,2025-12-10,12:09:54,1000
+844,Fujiyoshida - Kawaguchiko,2026-04-07,22:48:14,1200
+845,Fujiyoshida - Kawaguchiko,2026-02-15,13:51:08,1200
+846,Kawaguchiko - Otsuki,2025-12-22,18:26:03,1000
+847,Kawaguchiko - Otsuki,2026-03-28,05:45:42,1500
+848,Fujiyoshida - Kawaguchiko,2026-08-22,02:54:36,1000
+849,Fujiyoshida - Mount Fuji,2026-02-14,07:40:45,500
+850,Kawaguchiko - Otsuki,2026-04-01,07:01:41,1200
+851,Kawaguchiko - Otsuki,2026-07-10,00:39:29,500
+852,Fujiyoshida - Kawaguchiko,2025-12-17,03:41:04,1000
+853,Kawaguchiko - Otsuki,2026-02-03,14:54:28,500
+854,Fujiyoshida - Mount Fuji,2025-11-14,22:05:53,500
+855,Fujiyoshida - Mount Fuji,2026-10-14,20:32:50,1500
+856,Fujiyoshida - Mount Fuji,2026-03-12,16:12:31,1200
+857,Kawaguchiko - Otsuki,2026-01-29,11:41:47,1500
+858,Fujiyoshida - Mount Fuji,2025-11-29,01:12:12,500
+859,Kawaguchiko - Otsuki,2026-09-20,10:22:08,1500
+860,Fujiyoshida - Mount Fuji,2026-10-24,08:49:19,800
+861,Kawaguchiko - Otsuki,2026-03-02,22:25:00,1500
+862,Kawaguchiko - Otsuki,2026-04-12,23:54:28,1500
+863,Fujiyoshida - Kawaguchiko,2025-12-29,02:25:30,500
+864,Kawaguchiko - Otsuki,2025-11-19,00:32:34,500
+865,Kawaguchiko - Otsuki,2026-05-15,04:33:55,500
+866,Fujiyoshida - Mount Fuji,2025-12-12,23:40:22,800
+867,Fujiyoshida - Kawaguchiko,2026-10-15,19:02:25,800
+868,Fujiyoshida - Mount Fuji,2025-12-27,20:16:00,1200
+869,Kawaguchiko - Otsuki,2026-04-30,12:59:25,1500
+870,Fujiyoshida - Mount Fuji,2026-07-23,20:20:59,1500
+871,Fujiyoshida - Kawaguchiko,2026-08-02,13:22:30,1000
+872,Kawaguchiko - Otsuki,2026-04-16,10:09:51,1000
+873,Kawaguchiko - Otsuki,2026-08-20,17:16:39,1200
+874,Kawaguchiko - Otsuki,2026-01-04,00:15:40,1500
+875,Fujiyoshida - Kawaguchiko,2026-07-17,04:42:21,1000
+876,Fujiyoshida - Kawaguchiko,2026-09-24,18:52:39,1000
+877,Fujiyoshida - Kawaguchiko,2026-07-02,18:36:24,1500
+878,Fujiyoshida - Mount Fuji,2026-11-04,23:29:49,1200
+879,Kawaguchiko - Otsuki,2025-11-17,00:27:19,1000
+880,Fujiyoshida - Mount Fuji,2026-03-28,06:24:55,1500
+881,Fujiyoshida - Kawaguchiko,2026-04-26,23:24:34,1000
+882,Fujiyoshida - Kawaguchiko,2026-02-04,14:39:09,1500
+883,Fujiyoshida - Mount Fuji,2025-12-13,16:12:38,800
+884,Kawaguchiko - Otsuki,2026-03-27,18:32:00,1000
+885,Fujiyoshida - Mount Fuji,2026-10-21,06:10:24,1200
+886,Fujiyoshida - Kawaguchiko,2026-03-24,23:32:10,1500
+887,Fujiyoshida - Mount Fuji,2026-04-08,01:41:33,500
+888,Kawaguchiko - Otsuki,2026-01-17,07:06:38,1500
+889,Kawaguchiko - Otsuki,2026-09-30,09:07:59,1000
+890,Fujiyoshida - Kawaguchiko,2026-04-30,13:19:33,1500
+891,Fujiyoshida - Kawaguchiko,2026-07-20,22:02:53,1200
+892,Fujiyoshida - Mount Fuji,2026-07-12,16:23:03,1000
+893,Fujiyoshida - Kawaguchiko,2026-06-24,20:13:08,1000
+894,Kawaguchiko - Otsuki,2025-11-24,21:15:25,800
+895,Fujiyoshida - Kawaguchiko,2026-03-14,22:30:09,1000
+896,Kawaguchiko - Otsuki,2025-12-23,10:43:24,800
+897,Fujiyoshida - Kawaguchiko,2026-06-12,09:53:39,800
+898,Fujiyoshida - Kawaguchiko,2025-12-01,05:37:06,500
+899,Kawaguchiko - Otsuki,2026-08-29,21:49:21,500
+900,Fujiyoshida - Mount Fuji,2026-01-24,15:08:13,1500
+901,Fujiyoshida - Mount Fuji,2026-01-27,12:59:37,1500
+902,Fujiyoshida - Kawaguchiko,2026-10-08,05:07:35,1000
+903,Fujiyoshida - Mount Fuji,2026-03-12,00:51:03,800
+904,Fujiyoshida - Mount Fuji,2026-01-01,20:19:18,1200
+905,Fujiyoshida - Kawaguchiko,2026-10-20,04:53:42,800
+906,Fujiyoshida - Kawaguchiko,2025-11-06,16:53:13,1500
+907,Fujiyoshida - Kawaguchiko,2026-10-04,05:44:28,1200
+908,Fujiyoshida - Kawaguchiko,2025-12-25,03:04:30,1200
+909,Kawaguchiko - Otsuki,2026-02-10,04:02:58,800
+910,Kawaguchiko - Otsuki,2026-01-11,05:37:11,1500
+911,Kawaguchiko - Otsuki,2026-07-19,18:27:36,1200
+912,Fujiyoshida - Kawaguchiko,2025-12-26,08:31:45,1500
+913,Fujiyoshida - Kawaguchiko,2026-03-24,04:12:31,1000
+914,Kawaguchiko - Otsuki,2026-09-07,19:43:47,800
+915,Kawaguchiko - Otsuki,2026-06-21,09:12:12,1500
+916,Kawaguchiko - Otsuki,2025-11-11,21:54:31,1200
+917,Kawaguchiko - Otsuki,2026-02-16,09:14:01,1200
+918,Fujiyoshida - Mount Fuji,2025-12-24,12:03:25,1500
+919,Kawaguchiko - Otsuki,2026-04-17,22:14:30,800
+920,Fujiyoshida - Kawaguchiko,2025-12-19,14:39:56,1500
+921,Fujiyoshida - Kawaguchiko,2025-11-29,03:47:00,1000
+922,Fujiyoshida - Kawaguchiko,2026-04-28,17:14:25,1200
+923,Kawaguchiko - Otsuki,2026-03-25,14:21:55,1500
+924,Fujiyoshida - Kawaguchiko,2026-06-23,13:15:02,1500
+925,Fujiyoshida - Kawaguchiko,2026-04-29,23:29:15,1000
+926,Fujiyoshida - Kawaguchiko,2026-01-30,13:31:27,800
+927,Kawaguchiko - Otsuki,2025-11-21,17:20:39,1200
+928,Fujiyoshida - Mount Fuji,2026-09-05,02:59:39,800
+929,Kawaguchiko - Otsuki,2026-05-26,01:30:04,500
+930,Fujiyoshida - Kawaguchiko,2026-05-01,07:39:52,1200
+931,Kawaguchiko - Otsuki,2025-11-17,19:45:52,500
+932,Kawaguchiko - Otsuki,2026-05-10,06:01:28,500
+933,Kawaguchiko - Otsuki,2026-04-19,01:05:54,1500
+934,Kawaguchiko - Otsuki,2025-12-16,16:45:38,800
+935,Kawaguchiko - Otsuki,2026-08-08,19:14:10,500
+936,Kawaguchiko - Otsuki,2025-12-03,01:23:58,800
+937,Fujiyoshida - Kawaguchiko,2026-03-10,07:32:58,1000
+938,Fujiyoshida - Kawaguchiko,2026-01-01,12:58:48,1000
+939,Fujiyoshida - Kawaguchiko,2025-12-24,13:25:59,800
+940,Fujiyoshida - Kawaguchiko,2026-07-05,04:58:36,1000
+941,Kawaguchiko - Otsuki,2026-06-20,11:21:14,800
+942,Fujiyoshida - Mount Fuji,2026-08-08,12:40:25,1200
+943,Kawaguchiko - Otsuki,2026-04-01,06:07:17,1500
+944,Fujiyoshida - Kawaguchiko,2026-05-30,17:21:34,500
+945,Fujiyoshida - Kawaguchiko,2026-04-30,12:57:51,1000
+946,Fujiyoshida - Kawaguchiko,2026-06-28,15:53:40,800
+947,Fujiyoshida - Mount Fuji,2025-12-13,12:14:54,1500
+948,Fujiyoshida - Mount Fuji,2026-08-04,18:38:56,1200
+949,Fujiyoshida - Kawaguchiko,2026-10-02,23:29:31,1000
+950,Fujiyoshida - Kawaguchiko,2026-07-15,16:08:13,1000
+951,Fujiyoshida - Kawaguchiko,2026-06-07,13:45:26,500
+952,Fujiyoshida - Kawaguchiko,2026-10-07,10:15:13,1200
+953,Fujiyoshida - Mount Fuji,2026-04-21,10:59:47,1500
+954,Kawaguchiko - Otsuki,2026-10-15,05:43:38,500
+955,Fujiyoshida - Kawaguchiko,2026-04-14,04:34:58,1200
+956,Fujiyoshida - Mount Fuji,2026-09-22,18:37:56,1500
+957,Fujiyoshida - Kawaguchiko,2026-04-08,11:29:31,1500
+958,Fujiyoshida - Mount Fuji,2026-08-15,08:54:47,800
+959,Fujiyoshida - Mount Fuji,2026-03-06,06:38:50,800
+960,Kawaguchiko - Otsuki,2026-03-06,08:17:48,1200
+961,Fujiyoshida - Kawaguchiko,2026-02-11,07:15:16,1500
+962,Kawaguchiko - Otsuki,2026-01-03,00:42:10,800
+963,Fujiyoshida - Mount Fuji,2026-10-29,23:48:57,1200
+964,Fujiyoshida - Kawaguchiko,2025-12-01,09:42:14,500
+965,Fujiyoshida - Mount Fuji,2026-09-24,17:49:34,1000
+966,Fujiyoshida - Kawaguchiko,2025-12-11,08:22:40,1500
+967,Fujiyoshida - Mount Fuji,2025-12-12,20:37:11,1500
+968,Fujiyoshida - Mount Fuji,2026-08-18,04:30:31,1500
+969,Fujiyoshida - Kawaguchiko,2026-09-16,00:53:29,1200
+970,Kawaguchiko - Otsuki,2026-06-09,20:02:49,500
+971,Fujiyoshida - Mount Fuji,2026-06-20,07:20:41,1200
+972,Kawaguchiko - Otsuki,2026-06-11,09:29:07,1000
+973,Fujiyoshida - Mount Fuji,2026-07-23,01:48:00,500
+974,Kawaguchiko - Otsuki,2026-04-13,17:28:08,500
+975,Kawaguchiko - Otsuki,2026-10-10,03:04:46,800
+976,Fujiyoshida - Mount Fuji,2026-11-05,09:59:27,500
+977,Fujiyoshida - Mount Fuji,2026-04-18,01:26:58,1000
+978,Fujiyoshida - Kawaguchiko,2025-11-24,01:37:27,500
+979,Kawaguchiko - Otsuki,2026-06-26,23:01:44,1500
+980,Kawaguchiko - Otsuki,2026-03-21,00:08:38,800
+981,Fujiyoshida - Mount Fuji,2026-06-17,19:22:35,1200
+982,Fujiyoshida - Mount Fuji,2026-01-26,20:08:37,1200
+983,Fujiyoshida - Mount Fuji,2026-07-18,21:10:52,800
+984,Fujiyoshida - Kawaguchiko,2026-01-31,18:46:49,500
+985,Fujiyoshida - Mount Fuji,2026-03-20,01:16:48,1200
+986,Fujiyoshida - Kawaguchiko,2026-03-27,11:45:33,1000
+987,Fujiyoshida - Kawaguchiko,2026-08-28,20:24:46,500
+988,Fujiyoshida - Kawaguchiko,2026-06-15,05:09:12,500
+989,Kawaguchiko - Otsuki,2026-09-14,15:31:18,1000
+990,Fujiyoshida - Mount Fuji,2026-09-29,21:04:23,1200
+991,Fujiyoshida - Mount Fuji,2026-08-30,02:38:20,1200
+992,Kawaguchiko - Otsuki,2026-07-04,10:42:57,500
+993,Fujiyoshida - Mount Fuji,2026-07-25,08:59:01,800
+994,Kawaguchiko - Otsuki,2026-06-09,13:01:12,1000
+995,Fujiyoshida - Kawaguchiko,2026-06-29,11:36:43,1000
+996,Kawaguchiko - Otsuki,2026-09-23,07:40:35,500
+997,Kawaguchiko - Otsuki,2026-02-16,15:14:51,1200
+998,Kawaguchiko - Otsuki,2026-01-14,04:08:09,1200
+999,Kawaguchiko - Otsuki,2026-08-04,18:59:31,1000
+1000,Fujiyoshida - Kawaguchiko,2026-03-04,09:18:20,1200

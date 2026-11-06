@@ -1,0 +1,501 @@
+booking_id,hotel_name,customer_name,check_in,check_out,room_price,booking_status,booking_duration
+1,Mountain Resort,Sergio Knight,2026-03-21,2026-03-25,18062,Completed,4
+2,Fuji View Hotel,Patrick Bonilla,2026-04-09,2026-04-12,16912,Cancelled,3
+3,Tourist Inn,Cindy Barnes,2025-12-10,2025-12-11,14870,Confirmed,1
+4,Mountain Resort,Eric Nguyen,2026-03-17,2026-03-22,10262,Confirmed,5
+5,Mountain Resort,Angela Williams,2026-11-05,2026-11-06,15828,Cancelled,1
+6,Tourist Inn,Amber Miller,2026-01-05,2026-01-08,14873,Completed,3
+7,Lake Kawaguchi Hotel,Karla Ramos,2026-04-26,2026-04-30,16301,Cancelled,4
+8,Tourist Inn,Jose Reed,2026-02-19,2026-02-22,5693,Completed,3
+9,Tourist Inn,Michael Tucker,2025-12-18,2025-12-21,9498,Completed,3
+10,Fuji View Hotel,Daniel Joyce,2026-07-22,2026-07-23,15996,Completed,1
+11,Mountain Resort,Eric Clark,2025-11-26,2025-11-30,13406,Completed,4
+12,Fuji View Hotel,Donna Wilson,2025-12-28,2025-12-30,7339,Completed,2
+13,Fuji View Hotel,Casey James,2026-05-17,2026-05-21,7068,Confirmed,4
+14,Mountain Resort,Justin Barnett,2026-08-05,2026-08-07,10933,Cancelled,2
+15,Fuji View Hotel,Scott Williams,2026-03-22,2026-03-27,14913,Confirmed,5
+16,Mountain Resort,Blake Edwards,2025-11-12,2025-11-16,11095,Cancelled,4
+17,Lake Kawaguchi Hotel,Michelle Butler,2026-04-20,2026-04-21,13674,Cancelled,1
+18,Mountain Resort,Vincent Jackson,2025-12-19,2025-12-23,15642,Cancelled,4
+19,Fuji View Hotel,Michael Cox,2026-07-03,2026-07-05,5424,Completed,2
+20,Tourist Inn,Dana Chapman,2026-04-23,2026-04-25,13482,Cancelled,2
+21,Fuji View Hotel,Seth Reese,2026-05-27,2026-06-01,9288,Cancelled,5
+22,Lake Kawaguchi Hotel,Christopher Dixon,2026-01-30,2026-02-03,15024,Cancelled,4
+23,Lake Kawaguchi Hotel,Cheyenne Parsons,2025-12-19,2025-12-23,7009,Confirmed,4
+24,Tourist Inn,Sabrina Briggs,2026-03-21,2026-03-22,7828,Completed,1
+25,Fuji View Hotel,David Thompson,2026-02-04,2026-02-08,18279,Completed,4
+26,Mountain Resort,Mary Thompson,2026-01-03,2026-01-06,16625,Confirmed,3
+27,Mountain Resort,Julie Elliott,2026-09-01,2026-09-06,19603,Cancelled,5
+28,Lake Kawaguchi Hotel,Thomas Cunningham,2026-06-18,2026-06-20,18003,Cancelled,2
+29,Lake Kawaguchi Hotel,Mrs. Tricia Stewart,2026-07-09,2026-07-14,6988,Confirmed,5
+30,Lake Kawaguchi Hotel,Jeremy Turner,2026-04-24,2026-04-26,17949,Cancelled,2
+31,Mountain Resort,Heather Jones,2026-02-19,2026-02-20,14077,Completed,1
+32,Tourist Inn,Anthony Decker,2026-05-03,2026-05-06,18167,Completed,3
+33,Fuji View Hotel,Vanessa Davis,2025-12-04,2025-12-06,6077,Cancelled,2
+34,Tourist Inn,Julie Spencer,2026-06-23,2026-06-27,13612,Cancelled,4
+35,Fuji View Hotel,Amanda Stout,2026-09-08,2026-09-12,7053,Cancelled,4
+36,Tourist Inn,Erica Alvarez,2026-06-15,2026-06-16,12632,Completed,1
+37,Mountain Resort,Joanna Shepherd,2026-01-02,2026-01-07,7102,Completed,5
+38,Lake Kawaguchi Hotel,Miguel Wagner,2026-09-26,2026-10-01,17579,Confirmed,5
+39,Fuji View Hotel,Michael Ritter,2026-01-11,2026-01-15,18621,Confirmed,4
+40,Lake Kawaguchi Hotel,Caitlin Watson,2026-05-27,2026-06-01,9982,Confirmed,5
+41,Mountain Resort,Raymond Shelton,2026-02-22,2026-02-24,16621,Confirmed,2
+42,Mountain Resort,Maria Jones,2025-11-25,2025-11-28,18859,Confirmed,3
+43,Lake Kawaguchi Hotel,Jasmine King,2025-12-11,2025-12-14,15404,Completed,3
+44,Lake Kawaguchi Hotel,Susan Marks,2026-10-01,2026-10-04,15240,Cancelled,3
+45,Fuji View Hotel,Matthew Rangel,2026-03-14,2026-03-19,13234,Completed,5
+46,Lake Kawaguchi Hotel,Melissa Myers,2026-03-05,2026-03-07,7804,Completed,2
+47,Mountain Resort,Angela Hansen,2026-06-24,2026-06-29,18804,Completed,5
+48,Fuji View Hotel,Robin Santiago,2026-07-12,2026-07-13,6330,Confirmed,1
+49,Mountain Resort,Yolanda Gaines,2026-09-22,2026-09-27,15668,Confirmed,5
+50,Tourist Inn,Jessica Cox,2025-12-11,2025-12-16,15127,Completed,5
+51,Tourist Inn,Trevor Peterson,2026-03-25,2026-03-26,19565,Completed,1
+52,Mountain Resort,Mr. Chad Jones,2026-08-29,2026-09-03,15517,Cancelled,5
+53,Lake Kawaguchi Hotel,Katie Fernandez,2026-09-28,2026-10-02,18184,Completed,4
+54,Mountain Resort,Amanda Rogers,2026-08-18,2026-08-22,12430,Confirmed,4
+55,Lake Kawaguchi Hotel,Linda Moore,2026-08-29,2026-08-30,12202,Cancelled,1
+56,Tourist Inn,Patricia Lamb,2026-01-14,2026-01-18,8342,Cancelled,4
+57,Lake Kawaguchi Hotel,Amanda Diaz,2026-01-08,2026-01-13,10121,Completed,5
+58,Mountain Resort,Jeremy Mitchell,2026-08-11,2026-08-14,11532,Confirmed,3
+59,Fuji View Hotel,Cynthia Allen,2026-08-22,2026-08-25,10228,Confirmed,3
+60,Fuji View Hotel,Stephanie Lee,2026-09-15,2026-09-19,9382,Cancelled,4
+61,Lake Kawaguchi Hotel,Victoria Murray,2026-07-26,2026-07-28,6586,Confirmed,2
+62,Tourist Inn,Kathryn Barnes,2026-02-22,2026-02-25,19158,Completed,3
+63,Lake Kawaguchi Hotel,Rebecca Taylor,2026-01-06,2026-01-10,19177,Confirmed,4
+64,Mountain Resort,John Watson,2026-02-10,2026-02-13,8110,Confirmed,3
+65,Tourist Inn,Ryan Rosales,2026-11-02,2026-11-06,13171,Cancelled,4
+66,Fuji View Hotel,Christopher Cole,2026-02-23,2026-02-27,6475,Cancelled,4
+67,Tourist Inn,Jeffrey Potts,2026-05-23,2026-05-28,8944,Confirmed,5
+68,Mountain Resort,Stacey Arias,2026-01-30,2026-02-04,5797,Confirmed,5
+69,Tourist Inn,Jonathan Young,2026-04-15,2026-04-18,14789,Completed,3
+70,Mountain Resort,Alfred Galvan,2025-12-06,2025-12-10,13793,Confirmed,4
+71,Tourist Inn,Gabriela Thomas,2026-09-26,2026-09-27,7194,Cancelled,1
+72,Tourist Inn,Ronald Horton,2025-11-19,2025-11-22,10995,Confirmed,3
+73,Fuji View Hotel,Julie Gilbert,2025-12-28,2026-01-01,14343,Completed,4
+74,Mountain Resort,David Conley,2026-10-22,2026-10-24,14064,Cancelled,2
+75,Tourist Inn,Lisa Henderson,2026-06-06,2026-06-07,13261,Cancelled,1
+76,Mountain Resort,Eric Williams,2026-09-02,2026-09-07,18521,Completed,5
+77,Fuji View Hotel,Lisa Brown,2026-04-17,2026-04-22,7108,Confirmed,5
+78,Mountain Resort,Linda Smith,2026-09-25,2026-09-29,18023,Cancelled,4
+79,Mountain Resort,Michelle Carter,2026-05-24,2026-05-29,17369,Confirmed,5
+80,Tourist Inn,Cynthia Butler,2025-11-05,2025-11-07,13193,Confirmed,2
+81,Fuji View Hotel,Kelly Ward,2026-07-21,2026-07-22,7245,Completed,1
+82,Tourist Inn,Rachel Romero,2026-05-28,2026-05-31,13508,Cancelled,3
+83,Lake Kawaguchi Hotel,John Reid,2025-11-12,2025-11-14,10373,Completed,2
+84,Lake Kawaguchi Hotel,Alan Kramer,2026-03-29,2026-04-01,11438,Completed,3
+85,Mountain Resort,Matthew Garcia,2026-03-18,2026-03-21,13311,Completed,3
+86,Tourist Inn,Evelyn Williams,2026-06-18,2026-06-23,16611,Completed,5
+87,Tourist Inn,Marvin Greer,2026-06-05,2026-06-08,18365,Confirmed,3
+88,Mountain Resort,Michael Welch,2026-07-28,2026-07-31,16039,Confirmed,3
+89,Mountain Resort,Mike Acevedo,2026-09-16,2026-09-20,18054,Completed,4
+90,Tourist Inn,Andrew Gonzalez,2025-11-19,2025-11-20,9350,Completed,1
+91,Lake Kawaguchi Hotel,Eric Sanders,2025-11-21,2025-11-26,16819,Confirmed,5
+92,Tourist Inn,Dawn Mullins,2026-09-17,2026-09-22,7793,Completed,5
+93,Tourist Inn,Scott Williams,2026-01-18,2026-01-23,7421,Completed,5
+94,Fuji View Hotel,Caleb Richardson,2026-07-17,2026-07-19,14380,Completed,2
+95,Lake Kawaguchi Hotel,Jeremiah Huber,2026-10-16,2026-10-17,5310,Cancelled,1
+96,Tourist Inn,Kathleen Jimenez,2026-03-16,2026-03-19,7481,Cancelled,3
+97,Tourist Inn,Debra Miller,2026-10-29,2026-10-31,13221,Completed,2
+98,Fuji View Hotel,Lance Short,2026-04-18,2026-04-22,16563,Confirmed,4
+99,Lake Kawaguchi Hotel,Brian Murphy,2026-06-04,2026-06-09,14189,Cancelled,5
+100,Tourist Inn,Lance Simmons,2026-02-27,2026-03-03,10140,Confirmed,4
+101,Mountain Resort,Jeremy Acosta,2026-07-30,2026-08-03,13950,Cancelled,4
+102,Tourist Inn,Zachary Hill,2026-10-25,2026-10-28,8150,Confirmed,3
+103,Mountain Resort,Angela Walsh,2026-09-08,2026-09-11,8684,Cancelled,3
+104,Lake Kawaguchi Hotel,Nicole Moore,2026-03-26,2026-03-29,16308,Completed,3
+105,Mountain Resort,Lawrence Harrington,2025-11-17,2025-11-21,12861,Cancelled,4
+106,Mountain Resort,David Brewer,2025-11-18,2025-11-23,9715,Confirmed,5
+107,Tourist Inn,Keith Jacobs,2026-03-25,2026-03-30,19676,Cancelled,5
+108,Lake Kawaguchi Hotel,Jacob Wallace,2026-07-26,2026-07-29,9758,Confirmed,3
+109,Fuji View Hotel,Kendra Sanders,2025-12-04,2025-12-07,10674,Cancelled,3
+110,Tourist Inn,Tyler Johnson,2026-07-15,2026-07-18,8505,Confirmed,3
+111,Mountain Resort,Mr. Justin Green III,2026-01-16,2026-01-21,14208,Completed,5
+112,Lake Kawaguchi Hotel,Logan Benson,2026-04-27,2026-04-30,6789,Completed,3
+113,Lake Kawaguchi Hotel,Chad Jones,2026-05-14,2026-05-19,8972,Confirmed,5
+114,Lake Kawaguchi Hotel,Jill Miller,2026-01-11,2026-01-16,15452,Confirmed,5
+115,Fuji View Hotel,Victoria Contreras,2026-07-27,2026-07-28,11771,Cancelled,1
+116,Fuji View Hotel,Joshua Vance,2026-08-07,2026-08-11,16160,Confirmed,4
+117,Lake Kawaguchi Hotel,Michael Graves,2026-10-01,2026-10-02,11666,Completed,1
+118,Tourist Inn,Katie Martinez,2026-01-11,2026-01-15,15658,Confirmed,4
+119,Mountain Resort,Cynthia Snyder,2026-01-22,2026-01-25,9676,Completed,3
+120,Fuji View Hotel,Jackie Lara,2026-03-25,2026-03-26,15687,Completed,1
+121,Fuji View Hotel,Stephen Jones,2026-06-07,2026-06-09,19962,Confirmed,2
+122,Lake Kawaguchi Hotel,Dr. Kelly Hammond DVM,2026-04-08,2026-04-12,5595,Cancelled,4
+123,Lake Kawaguchi Hotel,Evan Jones,2025-12-03,2025-12-07,17271,Cancelled,4
+124,Fuji View Hotel,Haley Humphrey,2026-05-04,2026-05-05,9888,Completed,1
+125,Fuji View Hotel,Laurie Saunders,2026-09-04,2026-09-09,10489,Cancelled,5
+126,Tourist Inn,Thomas Brown,2025-12-25,2025-12-29,19569,Confirmed,4
+127,Tourist Inn,Elizabeth Martin,2025-12-23,2025-12-28,9470,Confirmed,5
+128,Mountain Resort,Hannah Everett,2026-11-03,2026-11-04,7662,Completed,1
+129,Mountain Resort,Blake Gonzalez,2026-10-18,2026-10-22,16773,Confirmed,4
+130,Mountain Resort,Mario Mendez,2026-06-06,2026-06-07,17955,Cancelled,1
+131,Lake Kawaguchi Hotel,Caroline David,2025-12-11,2025-12-16,7875,Completed,5
+132,Tourist Inn,Marcus Winters,2026-01-03,2026-01-07,13442,Cancelled,4
+133,Tourist Inn,Kristy Bryan,2026-03-16,2026-03-17,15965,Confirmed,1
+134,Lake Kawaguchi Hotel,Travis Wise,2025-11-16,2025-11-18,12822,Cancelled,2
+135,Fuji View Hotel,Pamela Butler,2026-02-15,2026-02-17,9272,Cancelled,2
+136,Tourist Inn,Stephen Gardner,2026-07-11,2026-07-13,17349,Cancelled,2
+137,Mountain Resort,Karen Ballard,2026-07-12,2026-07-15,14543,Completed,3
+138,Fuji View Hotel,Jesse Barker,2026-07-29,2026-08-03,9285,Completed,5
+139,Lake Kawaguchi Hotel,John Harris,2026-01-05,2026-01-08,6017,Completed,3
+140,Tourist Inn,Scott Flores,2026-06-28,2026-06-29,10026,Confirmed,1
+141,Mountain Resort,James Hodges,2026-10-05,2026-10-09,16309,Confirmed,4
+142,Mountain Resort,Emma Owens,2026-05-23,2026-05-26,15070,Confirmed,3
+143,Lake Kawaguchi Hotel,Charles Williams,2026-02-16,2026-02-18,12834,Confirmed,2
+144,Mountain Resort,Jennifer Estes,2026-04-03,2026-04-07,11813,Completed,4
+145,Tourist Inn,Garrett Lane,2026-10-21,2026-10-26,17408,Completed,5
+146,Lake Kawaguchi Hotel,Christopher Ferrell,2026-03-06,2026-03-08,16146,Completed,2
+147,Tourist Inn,Mr. Alexander Landry MD,2026-05-05,2026-05-06,13653,Completed,1
+148,Fuji View Hotel,Harry Williams,2026-02-06,2026-02-09,14243,Confirmed,3
+149,Lake Kawaguchi Hotel,Sarah Chambers,2026-05-16,2026-05-17,14383,Completed,1
+150,Lake Kawaguchi Hotel,Sarah Jordan,2026-02-23,2026-02-25,10375,Completed,2
+151,Fuji View Hotel,Jacob Powell,2026-10-13,2026-10-17,16145,Confirmed,4
+152,Tourist Inn,Kelly Lee,2025-11-22,2025-11-27,6489,Completed,5
+153,Fuji View Hotel,James Cole,2026-06-07,2026-06-11,12429,Confirmed,4
+154,Tourist Inn,William Becker,2026-06-06,2026-06-11,12484,Completed,5
+155,Tourist Inn,Brent Brooks,2025-12-21,2025-12-22,16022,Cancelled,1
+156,Tourist Inn,Holly Thomas,2026-03-16,2026-03-17,9169,Confirmed,1
+157,Fuji View Hotel,Kathryn Williams,2026-06-26,2026-06-28,5742,Cancelled,2
+158,Fuji View Hotel,Regina Stone,2025-12-28,2025-12-31,13866,Confirmed,3
+159,Tourist Inn,Kaylee Murphy,2026-01-01,2026-01-02,5519,Cancelled,1
+160,Lake Kawaguchi Hotel,James Jensen,2026-07-01,2026-07-05,17598,Confirmed,4
+161,Mountain Resort,George Clayton,2026-09-28,2026-10-02,19603,Cancelled,4
+162,Tourist Inn,Justin Wells Jr.,2026-05-30,2026-06-03,11154,Confirmed,4
+163,Lake Kawaguchi Hotel,Veronica Silva,2026-03-13,2026-03-18,15707,Cancelled,5
+164,Lake Kawaguchi Hotel,Shelby Soto,2026-09-10,2026-09-11,13802,Cancelled,1
+165,Lake Kawaguchi Hotel,Walter Patton,2026-06-24,2026-06-29,16925,Confirmed,5
+166,Fuji View Hotel,Crystal Williams,2026-09-02,2026-09-03,9888,Cancelled,1
+167,Tourist Inn,Mark Harvey,2026-05-10,2026-05-15,13715,Cancelled,5
+168,Lake Kawaguchi Hotel,Roberto Allen,2026-09-27,2026-09-29,12546,Cancelled,2
+169,Mountain Resort,Ashley Smith,2026-06-15,2026-06-17,8088,Completed,2
+170,Fuji View Hotel,Jason Harris,2026-03-06,2026-03-07,18262,Completed,1
+171,Fuji View Hotel,Tami Salas,2026-05-18,2026-05-22,8943,Confirmed,4
+172,Fuji View Hotel,Michele Stone,2026-08-17,2026-08-18,14731,Confirmed,1
+173,Fuji View Hotel,Matthew Fox,2026-06-10,2026-06-14,9009,Completed,4
+174,Tourist Inn,Julia Patel,2026-03-06,2026-03-07,12191,Confirmed,1
+175,Lake Kawaguchi Hotel,Raymond Le,2026-06-05,2026-06-10,17359,Confirmed,5
+176,Mountain Resort,Deborah Washington,2026-07-12,2026-07-14,8836,Completed,2
+177,Mountain Resort,Edwin David,2026-02-08,2026-02-13,14461,Completed,5
+178,Lake Kawaguchi Hotel,Michele Vaughn,2026-02-28,2026-03-03,9944,Confirmed,3
+179,Lake Kawaguchi Hotel,Gregory Peck,2026-05-13,2026-05-18,11775,Cancelled,5
+180,Fuji View Hotel,Donna Berry,2026-09-09,2026-09-12,14121,Completed,3
+181,Tourist Inn,William Cardenas,2026-06-03,2026-06-05,14107,Cancelled,2
+182,Mountain Resort,Donna Roberts,2026-09-01,2026-09-02,15540,Completed,1
+183,Mountain Resort,Thomas Douglas,2026-08-09,2026-08-13,16408,Cancelled,4
+184,Lake Kawaguchi Hotel,Dale Ryan,2026-08-22,2026-08-26,9913,Cancelled,4
+185,Tourist Inn,Denise Rodriguez,2026-11-02,2026-11-04,8948,Confirmed,2
+186,Lake Kawaguchi Hotel,Dana Santiago,2026-08-19,2026-08-22,18201,Cancelled,3
+187,Tourist Inn,David Garcia,2026-05-30,2026-05-31,11824,Completed,1
+188,Lake Kawaguchi Hotel,Ashlee Townsend,2026-03-13,2026-03-18,11363,Confirmed,5
+189,Lake Kawaguchi Hotel,Vanessa Moore,2025-11-07,2025-11-10,10411,Completed,3
+190,Tourist Inn,Sherry Woods,2026-07-16,2026-07-17,18879,Cancelled,1
+191,Lake Kawaguchi Hotel,Donna Mitchell,2026-01-21,2026-01-22,5844,Cancelled,1
+192,Fuji View Hotel,Ann Andrews,2025-11-27,2025-12-01,19313,Confirmed,4
+193,Lake Kawaguchi Hotel,Sarah Johnson,2026-05-31,2026-06-02,12854,Confirmed,2
+194,Mountain Resort,Stephen Thompson,2026-10-28,2026-10-31,19892,Confirmed,3
+195,Lake Kawaguchi Hotel,Russell French,2026-10-28,2026-10-30,17148,Confirmed,2
+196,Lake Kawaguchi Hotel,Tonya Howe,2026-01-16,2026-01-20,16397,Completed,4
+197,Tourist Inn,Edwin Morrison,2026-10-11,2026-10-13,19993,Confirmed,2
+198,Mountain Resort,Mrs. Virginia Daniels,2026-10-31,2026-11-05,17706,Cancelled,5
+199,Tourist Inn,Brandi Gordon,2026-05-15,2026-05-19,13743,Completed,4
+200,Mountain Resort,Brian Martin,2026-02-18,2026-02-21,9285,Cancelled,3
+201,Tourist Inn,Michelle Smith,2026-05-02,2026-05-07,12635,Confirmed,5
+202,Mountain Resort,Laura Todd,2026-03-15,2026-03-19,19980,Confirmed,4
+203,Mountain Resort,Margaret Sullivan,2026-01-12,2026-01-15,11781,Confirmed,3
+204,Lake Kawaguchi Hotel,Angie Caldwell,2026-04-20,2026-04-25,17144,Confirmed,5
+205,Mountain Resort,Mrs. Taylor Smith,2026-01-15,2026-01-16,14065,Completed,1
+206,Tourist Inn,Paul Finley,2026-04-02,2026-04-07,9836,Confirmed,5
+207,Mountain Resort,Laura Green,2026-03-02,2026-03-04,8768,Cancelled,2
+208,Lake Kawaguchi Hotel,Amy Wilson,2026-03-24,2026-03-29,13180,Completed,5
+209,Mountain Resort,Michael Leblanc,2026-03-04,2026-03-07,17506,Cancelled,3
+210,Tourist Inn,Emily Wilson,2026-10-15,2026-10-19,7756,Completed,4
+211,Lake Kawaguchi Hotel,Holly Walker,2026-10-26,2026-10-29,7293,Completed,3
+212,Tourist Inn,Jesse Zhang,2025-12-26,2025-12-31,8015,Completed,5
+213,Fuji View Hotel,Joshua Ruiz,2026-03-30,2026-03-31,18747,Confirmed,1
+214,Fuji View Hotel,Samantha Gill,2026-06-01,2026-06-02,11756,Confirmed,1
+215,Fuji View Hotel,Shelley Miller,2026-07-27,2026-07-29,16586,Confirmed,2
+216,Lake Kawaguchi Hotel,Heidi Stark,2026-04-27,2026-04-28,13285,Cancelled,1
+217,Fuji View Hotel,Joshua Wagner,2025-12-18,2025-12-21,15122,Completed,3
+218,Tourist Inn,Carmen Bond,2026-06-15,2026-06-20,15801,Cancelled,5
+219,Fuji View Hotel,Daniel Aguilar,2026-04-25,2026-04-26,13719,Completed,1
+220,Fuji View Hotel,Jill Brown,2025-12-10,2025-12-14,5274,Completed,4
+221,Mountain Resort,Joyce Brown,2025-12-26,2025-12-29,5280,Completed,3
+222,Lake Kawaguchi Hotel,Elizabeth Johnson,2026-05-03,2026-05-07,6753,Confirmed,4
+223,Lake Kawaguchi Hotel,Nichole Lane,2026-02-11,2026-02-16,8948,Confirmed,5
+224,Mountain Resort,Michael Weaver,2025-11-22,2025-11-27,18356,Cancelled,5
+225,Tourist Inn,Andrea Peck,2025-11-28,2025-12-01,6294,Cancelled,3
+226,Tourist Inn,Christopher Taylor,2025-11-17,2025-11-21,14256,Confirmed,4
+227,Mountain Resort,Maria Fisher,2026-07-12,2026-07-14,16207,Confirmed,2
+228,Fuji View Hotel,Sergio Knox,2026-10-17,2026-10-18,11640,Cancelled,1
+229,Tourist Inn,Victor Baxter,2026-03-30,2026-04-03,5919,Completed,4
+230,Lake Kawaguchi Hotel,Hannah White,2025-12-26,2025-12-27,6354,Cancelled,1
+231,Mountain Resort,Cameron Irwin,2026-06-01,2026-06-05,14270,Confirmed,4
+232,Fuji View Hotel,Alexander Evans,2026-09-25,2026-09-30,8764,Confirmed,5
+233,Tourist Inn,Jessica Gray,2026-07-24,2026-07-29,9441,Confirmed,5
+234,Mountain Resort,Gregory Hill,2026-02-02,2026-02-03,19734,Completed,1
+235,Fuji View Hotel,Pamela Johnson,2026-11-04,2026-11-09,7938,Cancelled,5
+236,Lake Kawaguchi Hotel,Ralph Stephenson,2026-07-19,2026-07-20,14617,Confirmed,1
+237,Fuji View Hotel,Austin Wheeler,2025-11-11,2025-11-15,9903,Confirmed,4
+238,Lake Kawaguchi Hotel,Michele Williams,2026-04-27,2026-05-02,14284,Cancelled,5
+239,Mountain Resort,Jeffrey Fernandez,2026-08-19,2026-08-24,11288,Completed,5
+240,Fuji View Hotel,Amy Gordon,2026-08-24,2026-08-26,13204,Completed,2
+241,Fuji View Hotel,Thomas Johnston,2026-02-25,2026-02-28,6600,Cancelled,3
+242,Fuji View Hotel,Megan Flores,2026-06-17,2026-06-19,10580,Completed,2
+243,Tourist Inn,Victoria Boyd,2026-03-02,2026-03-07,17673,Cancelled,5
+244,Mountain Resort,Antonio Fry,2026-04-14,2026-04-15,17837,Cancelled,1
+245,Lake Kawaguchi Hotel,Casey Shelton,2026-10-12,2026-10-16,10829,Completed,4
+246,Tourist Inn,William David DDS,2026-06-08,2026-06-12,8043,Completed,4
+247,Tourist Inn,Melissa Russell,2026-09-06,2026-09-11,6404,Completed,5
+248,Lake Kawaguchi Hotel,Paul Wells,2026-03-01,2026-03-04,16683,Confirmed,3
+249,Mountain Resort,Scott Thomas,2026-09-30,2026-10-01,7526,Cancelled,1
+250,Tourist Inn,Kristina Faulkner,2026-05-03,2026-05-05,10188,Cancelled,2
+251,Fuji View Hotel,Jasmine Scott,2026-06-09,2026-06-10,5085,Cancelled,1
+252,Mountain Resort,Tammy Boone,2026-03-13,2026-03-17,17473,Cancelled,4
+253,Lake Kawaguchi Hotel,Sandra Williams,2025-12-10,2025-12-11,6430,Confirmed,1
+254,Tourist Inn,Lindsey Russo,2026-03-31,2026-04-04,14125,Completed,4
+255,Tourist Inn,Laurie Powers,2026-01-17,2026-01-22,6692,Confirmed,5
+256,Mountain Resort,Sean Cook,2026-01-28,2026-01-29,14080,Confirmed,1
+257,Mountain Resort,Timothy Hayden,2026-10-24,2026-10-29,19151,Cancelled,5
+258,Mountain Resort,Nicole Rocha,2025-12-20,2025-12-21,11779,Cancelled,1
+259,Lake Kawaguchi Hotel,Christine Herman,2026-08-02,2026-08-03,14370,Completed,1
+260,Tourist Inn,Douglas Owens,2026-06-07,2026-06-09,7777,Confirmed,2
+261,Mountain Resort,Dennis Hunt,2026-07-14,2026-07-17,9397,Cancelled,3
+262,Fuji View Hotel,Robert Bowen,2026-05-17,2026-05-19,7739,Cancelled,2
+263,Tourist Inn,Suzanne Wood,2026-08-27,2026-08-30,9911,Cancelled,3
+264,Mountain Resort,Sean Figueroa,2026-04-14,2026-04-15,9123,Confirmed,1
+265,Lake Kawaguchi Hotel,Timothy Riley,2025-11-11,2025-11-15,12501,Confirmed,4
+266,Mountain Resort,Craig Hall,2026-04-16,2026-04-18,5110,Cancelled,2
+267,Tourist Inn,Kathryn Pena,2026-06-14,2026-06-17,18173,Cancelled,3
+268,Mountain Resort,Phillip Burns,2026-07-28,2026-08-01,12055,Completed,4
+269,Lake Kawaguchi Hotel,Katherine Jackson,2026-08-13,2026-08-18,9922,Cancelled,5
+270,Lake Kawaguchi Hotel,Charles Payne,2026-09-09,2026-09-14,12848,Cancelled,5
+271,Tourist Inn,Kimberly May,2026-01-15,2026-01-17,10228,Cancelled,2
+272,Lake Kawaguchi Hotel,Sara Jones,2025-11-27,2025-12-01,10339,Cancelled,4
+273,Tourist Inn,Pamela Gutierrez,2026-09-18,2026-09-21,10980,Confirmed,3
+274,Lake Kawaguchi Hotel,Andrea Hernandez,2026-09-28,2026-10-03,14703,Completed,5
+275,Fuji View Hotel,Jacqueline Williamson,2026-01-28,2026-01-30,16914,Cancelled,2
+276,Tourist Inn,Susan Hopkins,2026-07-21,2026-07-23,18069,Cancelled,2
+277,Tourist Inn,Juan Smith,2025-11-11,2025-11-12,16026,Cancelled,1
+278,Mountain Resort,Kimberly Mitchell,2026-05-29,2026-05-31,8965,Cancelled,2
+279,Tourist Inn,Megan Drake,2026-05-19,2026-05-21,17928,Cancelled,2
+280,Tourist Inn,Thomas Warren,2026-10-24,2026-10-25,14796,Cancelled,1
+281,Tourist Inn,Joseph Ochoa,2026-02-06,2026-02-11,13755,Completed,5
+282,Fuji View Hotel,Angela Chung,2026-02-16,2026-02-20,17955,Cancelled,4
+283,Fuji View Hotel,Wanda Perez,2026-05-02,2026-05-07,6791,Confirmed,5
+284,Lake Kawaguchi Hotel,Angela Frey,2026-07-28,2026-07-31,15600,Completed,3
+285,Tourist Inn,Anna Gray,2026-07-15,2026-07-16,17331,Cancelled,1
+286,Fuji View Hotel,Mark Warner,2026-06-07,2026-06-11,5172,Confirmed,4
+287,Lake Kawaguchi Hotel,Mr. Richard Knight PhD,2025-12-07,2025-12-10,13366,Completed,3
+288,Lake Kawaguchi Hotel,Tamara Hall,2025-12-12,2025-12-17,12303,Cancelled,5
+289,Tourist Inn,Stacy Alvarez,2026-10-21,2026-10-25,17654,Completed,4
+290,Lake Kawaguchi Hotel,Melinda Ramirez,2025-11-23,2025-11-28,10651,Confirmed,5
+291,Fuji View Hotel,Amanda Mcfarland,2026-06-03,2026-06-07,9840,Cancelled,4
+292,Fuji View Hotel,Daniel Thomas,2026-03-07,2026-03-08,18620,Completed,1
+293,Mountain Resort,Jennifer Jones,2026-09-19,2026-09-21,10110,Cancelled,2
+294,Lake Kawaguchi Hotel,Lacey Atkinson,2026-01-07,2026-01-11,13537,Cancelled,4
+295,Tourist Inn,Evelyn Campos,2026-07-25,2026-07-28,6599,Cancelled,3
+296,Mountain Resort,Melissa Miller,2025-12-29,2026-01-02,6100,Cancelled,4
+297,Fuji View Hotel,Amy Kim,2026-08-21,2026-08-22,5370,Cancelled,1
+298,Lake Kawaguchi Hotel,Larry Austin,2026-09-26,2026-09-27,17132,Confirmed,1
+299,Lake Kawaguchi Hotel,Raymond Johnson,2026-06-24,2026-06-29,14042,Confirmed,5
+300,Tourist Inn,Joanne Perez,2026-02-19,2026-02-22,12570,Confirmed,3
+301,Lake Kawaguchi Hotel,Jessica Frazier,2026-06-07,2026-06-11,8053,Completed,4
+302,Tourist Inn,Raymond Phillips,2026-07-19,2026-07-23,5478,Completed,4
+303,Lake Kawaguchi Hotel,Angela Moore,2026-02-08,2026-02-13,12365,Completed,5
+304,Tourist Inn,Brittany Price,2026-08-08,2026-08-12,5072,Completed,4
+305,Lake Kawaguchi Hotel,Aaron Parker,2026-03-25,2026-03-27,9560,Completed,2
+306,Fuji View Hotel,Ashley Miller,2026-03-24,2026-03-25,18099,Completed,1
+307,Mountain Resort,Justin Russell,2026-04-21,2026-04-23,10340,Confirmed,2
+308,Fuji View Hotel,Julian Carlson,2025-11-15,2025-11-19,9298,Completed,4
+309,Mountain Resort,James Carter,2026-09-05,2026-09-09,14780,Cancelled,4
+310,Tourist Inn,Misty Hansen,2026-04-04,2026-04-09,14617,Confirmed,5
+311,Mountain Resort,Carolyn James,2026-02-07,2026-02-10,18852,Cancelled,3
+312,Lake Kawaguchi Hotel,Derrick Thomas,2025-12-28,2026-01-02,18332,Completed,5
+313,Fuji View Hotel,Jason Washington,2026-01-08,2026-01-11,16011,Confirmed,3
+314,Fuji View Hotel,Tony Le,2025-12-04,2025-12-07,8908,Cancelled,3
+315,Lake Kawaguchi Hotel,Christina Rodriguez,2026-05-16,2026-05-17,11116,Completed,1
+316,Tourist Inn,James Skinner,2026-03-03,2026-03-05,11852,Completed,2
+317,Tourist Inn,Erin Cook,2026-04-01,2026-04-03,11931,Confirmed,2
+318,Lake Kawaguchi Hotel,Marilyn Wheeler,2026-09-17,2026-09-21,14091,Confirmed,4
+319,Mountain Resort,Travis Harris,2026-03-01,2026-03-05,7298,Confirmed,4
+320,Tourist Inn,James Flores,2026-03-07,2026-03-10,15148,Confirmed,3
+321,Fuji View Hotel,Katherine Johnston,2026-08-17,2026-08-20,12939,Confirmed,3
+322,Tourist Inn,Douglas Hartman,2026-02-07,2026-02-09,14200,Completed,2
+323,Tourist Inn,Justin Vargas,2026-03-26,2026-03-30,16218,Cancelled,4
+324,Tourist Inn,Randall Johnson,2026-06-04,2026-06-08,13006,Confirmed,4
+325,Fuji View Hotel,Michael Gonzales,2026-08-14,2026-08-15,18039,Confirmed,1
+326,Fuji View Hotel,Andrea Abbott,2026-02-26,2026-03-01,9503,Confirmed,3
+327,Mountain Resort,Jonathan Schultz,2026-09-09,2026-09-14,7755,Cancelled,5
+328,Tourist Inn,Christian Henderson,2026-02-06,2026-02-11,14006,Completed,5
+329,Fuji View Hotel,William Mendoza,2026-03-31,2026-04-01,9389,Completed,1
+330,Fuji View Hotel,Tammy Kane,2026-04-09,2026-04-12,17451,Completed,3
+331,Lake Kawaguchi Hotel,Rachel Ward,2026-04-16,2026-04-20,11965,Confirmed,4
+332,Mountain Resort,Linda Rocha,2026-10-18,2026-10-20,19332,Confirmed,2
+333,Mountain Resort,Mary Kelly,2025-12-17,2025-12-21,10711,Confirmed,4
+334,Fuji View Hotel,Kristine Newman,2026-07-14,2026-07-18,17707,Confirmed,4
+335,Mountain Resort,Paul Sheppard,2026-07-14,2026-07-16,19107,Completed,2
+336,Tourist Inn,Brett Walker,2026-04-21,2026-04-26,7719,Completed,5
+337,Lake Kawaguchi Hotel,Lauren Johnston,2026-08-22,2026-08-24,18328,Confirmed,2
+338,Mountain Resort,Joel Frazier,2026-04-27,2026-04-28,13720,Cancelled,1
+339,Lake Kawaguchi Hotel,Haley Johnson,2026-07-31,2026-08-05,10302,Completed,5
+340,Mountain Resort,Thomas Miller,2025-12-15,2025-12-18,14383,Cancelled,3
+341,Fuji View Hotel,Brenda Collins,2026-09-23,2026-09-28,7221,Cancelled,5
+342,Mountain Resort,Kelly Bailey,2026-04-30,2026-05-01,19205,Completed,1
+343,Lake Kawaguchi Hotel,Michael Flores,2025-12-12,2025-12-14,9090,Confirmed,2
+344,Lake Kawaguchi Hotel,Michael Johnson,2026-03-01,2026-03-04,17475,Completed,3
+345,Tourist Inn,Megan Martin,2026-03-18,2026-03-22,7329,Completed,4
+346,Tourist Inn,Christopher Moore,2026-08-19,2026-08-22,11146,Cancelled,3
+347,Fuji View Hotel,Joel Salinas,2026-06-10,2026-06-11,11600,Completed,1
+348,Mountain Resort,Martin Reynolds,2026-07-07,2026-07-10,12449,Cancelled,3
+349,Fuji View Hotel,Sonya Cole,2025-11-16,2025-11-19,19236,Completed,3
+350,Tourist Inn,Michael Harris,2026-04-20,2026-04-21,15401,Completed,1
+351,Fuji View Hotel,Rebecca Ray,2026-08-24,2026-08-27,18036,Completed,3
+352,Lake Kawaguchi Hotel,Chelsea Nguyen,2026-09-11,2026-09-15,12039,Confirmed,4
+353,Mountain Resort,Michael Burns,2026-05-01,2026-05-05,10289,Cancelled,4
+354,Lake Kawaguchi Hotel,James Long,2026-07-11,2026-07-14,14275,Cancelled,3
+355,Fuji View Hotel,Ryan Williamson,2025-12-19,2025-12-22,5752,Confirmed,3
+356,Fuji View Hotel,Rebecca Sellers,2026-09-17,2026-09-21,7035,Confirmed,4
+357,Tourist Inn,Cesar Wilson,2026-06-22,2026-06-26,5011,Cancelled,4
+358,Lake Kawaguchi Hotel,James Thomas,2026-03-03,2026-03-05,19453,Completed,2
+359,Lake Kawaguchi Hotel,Chad Reyes,2026-04-04,2026-04-07,19326,Cancelled,3
+360,Mountain Resort,Mr. Thomas Arias,2026-01-16,2026-01-17,9102,Confirmed,1
+361,Lake Kawaguchi Hotel,Katherine Taylor,2026-01-11,2026-01-14,5848,Cancelled,3
+362,Lake Kawaguchi Hotel,Lisa Glenn,2026-03-07,2026-03-10,12032,Completed,3
+363,Fuji View Hotel,Mr. James Hoffman,2025-11-08,2025-11-09,5017,Confirmed,1
+364,Fuji View Hotel,Michael Perry PhD,2026-07-16,2026-07-20,7174,Completed,4
+365,Tourist Inn,Keith Flynn,2026-05-13,2026-05-15,5152,Confirmed,2
+366,Fuji View Hotel,Donald Medina,2026-01-29,2026-02-01,19095,Cancelled,3
+367,Tourist Inn,Krystal Barton,2026-01-09,2026-01-11,6160,Confirmed,2
+368,Fuji View Hotel,Ashley Wilson,2026-05-16,2026-05-20,16972,Confirmed,4
+369,Mountain Resort,Wendy Weaver,2026-09-02,2026-09-03,11022,Cancelled,1
+370,Tourist Inn,Nathan Payne,2026-08-25,2026-08-27,17672,Confirmed,2
+371,Fuji View Hotel,Ronald Potter,2026-04-19,2026-04-21,13691,Completed,2
+372,Lake Kawaguchi Hotel,Amanda Baker,2026-02-28,2026-03-01,12210,Cancelled,1
+373,Lake Kawaguchi Hotel,Jessica Mcknight,2026-10-05,2026-10-07,11745,Completed,2
+374,Lake Kawaguchi Hotel,Christine Rojas,2026-09-02,2026-09-06,6420,Confirmed,4
+375,Fuji View Hotel,Michael Chen,2026-07-30,2026-08-01,14659,Completed,2
+376,Mountain Resort,Rachel Li,2026-01-08,2026-01-12,12035,Cancelled,4
+377,Lake Kawaguchi Hotel,Gregory Campbell,2026-09-13,2026-09-15,9537,Completed,2
+378,Lake Kawaguchi Hotel,William Carter,2026-06-02,2026-06-03,14066,Completed,1
+379,Mountain Resort,Scott Duke,2026-06-15,2026-06-20,17762,Completed,5
+380,Mountain Resort,Brandy Brady,2026-07-26,2026-07-27,8366,Completed,1
+381,Lake Kawaguchi Hotel,Wendy Camacho,2026-04-13,2026-04-18,17252,Cancelled,5
+382,Fuji View Hotel,Brandi Thomas,2025-12-24,2025-12-27,17841,Confirmed,3
+383,Tourist Inn,Pam Lowe,2026-03-10,2026-03-14,6847,Confirmed,4
+384,Fuji View Hotel,Mark Burton,2026-05-14,2026-05-18,13655,Confirmed,4
+385,Mountain Resort,Mark Beard,2026-03-30,2026-04-02,7162,Cancelled,3
+386,Tourist Inn,Paul Neal,2025-12-11,2025-12-16,10986,Completed,5
+387,Tourist Inn,Travis Murphy,2026-10-11,2026-10-13,17621,Confirmed,2
+388,Fuji View Hotel,Sarah Davis,2025-11-05,2025-11-06,5225,Cancelled,1
+389,Fuji View Hotel,Melissa Horn,2026-05-02,2026-05-04,5990,Cancelled,2
+390,Mountain Resort,Claudia Jordan,2026-09-10,2026-09-15,15298,Completed,5
+391,Tourist Inn,Frank Campbell MD,2026-01-26,2026-01-31,11939,Completed,5
+392,Fuji View Hotel,Karina Cooper,2025-12-25,2025-12-29,15494,Completed,4
+393,Lake Kawaguchi Hotel,Amber Sims,2026-07-28,2026-08-02,9546,Confirmed,5
+394,Fuji View Hotel,Caleb Mathews,2026-09-25,2026-09-28,13377,Confirmed,3
+395,Mountain Resort,William Patterson,2026-04-25,2026-04-27,11401,Completed,2
+396,Mountain Resort,Sonia Turner,2026-07-30,2026-07-31,16447,Cancelled,1
+397,Fuji View Hotel,Denise Pena,2026-10-10,2026-10-12,9005,Confirmed,2
+398,Fuji View Hotel,Matthew Banks,2026-02-10,2026-02-14,12428,Completed,4
+399,Fuji View Hotel,Eric Lyons,2025-11-25,2025-11-30,10067,Completed,5
+400,Fuji View Hotel,Brandon Davis,2026-02-03,2026-02-05,5207,Completed,2
+401,Fuji View Hotel,Casey Perez,2026-01-26,2026-01-28,7684,Cancelled,2
+402,Mountain Resort,Adam Cooper,2026-07-27,2026-07-30,7735,Cancelled,3
+403,Mountain Resort,Jennifer Anderson MD,2025-12-21,2025-12-23,17008,Confirmed,2
+404,Mountain Resort,Robert Garcia,2026-04-02,2026-04-03,18223,Cancelled,1
+405,Fuji View Hotel,Breanna Ayala,2026-03-27,2026-03-30,9308,Completed,3
+406,Fuji View Hotel,Margaret Byrd,2026-08-24,2026-08-29,13128,Cancelled,5
+407,Mountain Resort,Alejandra Santos,2025-12-01,2025-12-06,5908,Cancelled,5
+408,Lake Kawaguchi Hotel,Daniel Goodman,2026-04-24,2026-04-29,11024,Confirmed,5
+409,Fuji View Hotel,Michael Heath,2026-10-28,2026-10-31,19651,Completed,3
+410,Lake Kawaguchi Hotel,Brenda Martinez,2025-12-08,2025-12-09,17136,Completed,1
+411,Fuji View Hotel,Victor Edwards,2026-08-15,2026-08-16,19068,Confirmed,1
+412,Fuji View Hotel,Matthew Wright,2025-12-29,2025-12-31,12729,Cancelled,2
+413,Lake Kawaguchi Hotel,Lisa Maxwell,2026-06-26,2026-06-30,7932,Confirmed,4
+414,Tourist Inn,Ryan Liu,2026-07-31,2026-08-05,8678,Cancelled,5
+415,Tourist Inn,Katrina Adkins,2026-01-23,2026-01-25,16801,Cancelled,2
+416,Fuji View Hotel,Rachel Leon,2026-02-27,2026-03-02,14364,Cancelled,3
+417,Fuji View Hotel,Brian Porter MD,2026-02-05,2026-02-06,7938,Confirmed,1
+418,Fuji View Hotel,Alexandria Ward,2026-05-29,2026-06-03,11568,Confirmed,5
+419,Mountain Resort,Scott Carroll,2026-03-07,2026-03-11,17673,Cancelled,4
+420,Fuji View Hotel,Carrie Ruiz,2026-03-26,2026-03-29,14061,Cancelled,3
+421,Mountain Resort,Kevin Smith,2026-08-31,2026-09-01,8287,Cancelled,1
+422,Mountain Resort,Antonio Mccormick,2026-01-27,2026-02-01,17117,Completed,5
+423,Tourist Inn,Micheal Wang,2026-05-20,2026-05-22,11033,Completed,2
+424,Lake Kawaguchi Hotel,Angela Herrera,2026-04-18,2026-04-22,17000,Completed,4
+425,Lake Kawaguchi Hotel,Bradley Miller,2026-07-02,2026-07-04,5104,Cancelled,2
+426,Lake Kawaguchi Hotel,Robert Herrera,2026-10-28,2026-10-29,13872,Cancelled,1
+427,Mountain Resort,Pamela Santos,2026-04-05,2026-04-06,5023,Completed,1
+428,Mountain Resort,Michael Blair,2026-07-12,2026-07-16,6703,Confirmed,4
+429,Lake Kawaguchi Hotel,David Middleton,2026-09-29,2026-10-04,11878,Cancelled,5
+430,Lake Kawaguchi Hotel,Lee Parker,2025-12-20,2025-12-21,16659,Cancelled,1
+431,Fuji View Hotel,Casey Smith,2026-08-20,2026-08-21,8792,Completed,1
+432,Mountain Resort,Carla Benton,2025-12-28,2026-01-01,12511,Completed,4
+433,Fuji View Hotel,Samantha Green,2026-05-27,2026-05-28,13280,Confirmed,1
+434,Fuji View Hotel,Richard Adams,2026-03-29,2026-04-02,14697,Completed,4
+435,Tourist Inn,Steven Rogers,2026-10-15,2026-10-16,15853,Confirmed,1
+436,Mountain Resort,Austin Joseph,2026-04-20,2026-04-22,9276,Cancelled,2
+437,Mountain Resort,Kathleen Dixon,2026-06-16,2026-06-20,10211,Cancelled,4
+438,Lake Kawaguchi Hotel,Mr. Jacob Scott Jr.,2025-11-26,2025-11-29,6223,Confirmed,3
+439,Fuji View Hotel,Ashley Yang,2026-06-15,2026-06-17,7546,Confirmed,2
+440,Tourist Inn,Scott Sanchez,2025-11-05,2025-11-07,12635,Cancelled,2
+441,Fuji View Hotel,Thomas White,2026-05-07,2026-05-11,13780,Cancelled,4
+442,Tourist Inn,Robert Klein,2026-10-04,2026-10-06,10051,Cancelled,2
+443,Fuji View Hotel,Frank Butler,2026-07-17,2026-07-20,6481,Confirmed,3
+444,Fuji View Hotel,Roger Duncan,2026-08-11,2026-08-14,8522,Cancelled,3
+445,Fuji View Hotel,Stephanie White,2025-12-21,2025-12-23,16651,Confirmed,2
+446,Tourist Inn,Amber Morales,2026-09-13,2026-09-16,13412,Confirmed,3
+447,Mountain Resort,Douglas Kirk,2026-10-11,2026-10-14,18436,Confirmed,3
+448,Tourist Inn,Jesus Wood,2026-03-12,2026-03-13,19001,Cancelled,1
+449,Lake Kawaguchi Hotel,Elizabeth Dean,2026-02-26,2026-03-03,6551,Cancelled,5
+450,Lake Kawaguchi Hotel,Wesley Cuevas,2026-05-04,2026-05-05,6989,Confirmed,1
+451,Lake Kawaguchi Hotel,Steven Hodges,2026-09-02,2026-09-03,7141,Confirmed,1
+452,Mountain Resort,Timothy Johnson,2026-02-08,2026-02-12,16244,Completed,4
+453,Mountain Resort,Ryan Wiley,2026-06-03,2026-06-04,18316,Confirmed,1
+454,Fuji View Hotel,Matthew Sweeney,2026-03-15,2026-03-16,8239,Completed,1
+455,Lake Kawaguchi Hotel,Daniel Bird,2026-08-14,2026-08-18,6506,Cancelled,4
+456,Fuji View Hotel,Anthony Shea DDS,2026-04-17,2026-04-18,12552,Confirmed,1
+457,Tourist Inn,David Bruce,2025-12-11,2025-12-13,18462,Completed,2
+458,Tourist Inn,Jacqueline Villegas,2026-04-14,2026-04-18,5483,Cancelled,4
+459,Lake Kawaguchi Hotel,Kathy Walsh,2025-12-07,2025-12-11,10799,Confirmed,4
+460,Mountain Resort,Keith Graham,2026-04-07,2026-04-09,9585,Cancelled,2
+461,Fuji View Hotel,Dean Edwards,2025-12-25,2025-12-27,15061,Completed,2
+462,Lake Kawaguchi Hotel,Ronnie Nguyen,2026-09-12,2026-09-17,15605,Cancelled,5
+463,Tourist Inn,Benjamin Harris,2026-04-29,2026-05-03,19463,Completed,4
+464,Fuji View Hotel,Ashley Garcia,2026-09-03,2026-09-07,6437,Cancelled,4
+465,Lake Kawaguchi Hotel,Jason Herrera,2026-04-28,2026-05-02,11868,Confirmed,4
+466,Lake Kawaguchi Hotel,Eric Baker,2026-08-31,2026-09-05,15334,Completed,5
+467,Tourist Inn,Robert Torres,2025-12-21,2025-12-22,17810,Completed,1
+468,Tourist Inn,Amanda Huff,2026-08-05,2026-08-08,13921,Cancelled,3
+469,Mountain Resort,Michael Schmitt,2026-03-12,2026-03-15,11363,Cancelled,3
+470,Fuji View Hotel,Megan Green,2026-04-07,2026-04-09,10224,Completed,2
+471,Fuji View Hotel,Jared Chavez,2026-01-11,2026-01-13,19676,Cancelled,2
+472,Tourist Inn,Anna Garcia,2026-08-22,2026-08-23,13674,Cancelled,1
+473,Lake Kawaguchi Hotel,Adam Greer,2026-09-09,2026-09-14,7615,Confirmed,5
+474,Lake Kawaguchi Hotel,Rodney Watson,2026-01-30,2026-02-01,9366,Completed,2
+475,Lake Kawaguchi Hotel,Angela Willis,2026-07-07,2026-07-08,14432,Cancelled,1
+476,Lake Kawaguchi Hotel,Alison Brown,2026-10-27,2026-10-30,7885,Confirmed,3
+477,Mountain Resort,Rhonda Davis,2026-10-21,2026-10-26,18208,Completed,5
+478,Fuji View Hotel,Erin Williams,2026-09-30,2026-10-03,16525,Completed,3
+479,Lake Kawaguchi Hotel,Thomas Hamilton,2026-05-03,2026-05-06,14225,Confirmed,3
+480,Mountain Resort,Allen Vega,2026-08-13,2026-08-17,7876,Cancelled,4
+481,Fuji View Hotel,Terry Hill,2026-01-11,2026-01-12,5920,Confirmed,1
+482,Lake Kawaguchi Hotel,Amanda Harvey,2026-04-27,2026-05-02,5326,Completed,5
+483,Fuji View Hotel,Kathleen Andrade,2026-02-08,2026-02-12,10435,Completed,4
+484,Lake Kawaguchi Hotel,Douglas Taylor,2026-05-10,2026-05-12,10582,Completed,2
+485,Mountain Resort,Rebecca Wright,2026-01-21,2026-01-23,5975,Confirmed,2
+486,Lake Kawaguchi Hotel,Alicia Reyes,2026-09-12,2026-09-14,17687,Confirmed,2
+487,Mountain Resort,Joshua Washington,2026-08-09,2026-08-14,6188,Cancelled,5
+488,Fuji View Hotel,Erica Nelson,2026-10-25,2026-10-29,10514,Cancelled,4
+489,Lake Kawaguchi Hotel,Daniel Huang,2025-11-15,2025-11-18,7580,Completed,3
+490,Tourist Inn,Robert Ruiz,2026-09-03,2026-09-07,15636,Cancelled,4
+491,Mountain Resort,Yvonne Dickson,2026-03-23,2026-03-25,8657,Completed,2
+492,Lake Kawaguchi Hotel,David Ferguson,2025-12-13,2025-12-18,11199,Cancelled,5
+493,Lake Kawaguchi Hotel,Amy Davies,2026-09-08,2026-09-11,7911,Completed,3
+494,Tourist Inn,Vickie Price,2026-01-29,2026-01-30,18938,Completed,1
+495,Lake Kawaguchi Hotel,Sarah Thompson,2026-11-03,2026-11-04,14869,Cancelled,1
+496,Lake Kawaguchi Hotel,Oscar Howard,2026-06-23,2026-06-28,15479,Completed,5
+497,Tourist Inn,Michael Meza,2026-06-22,2026-06-23,7304,Cancelled,1
+498,Lake Kawaguchi Hotel,Travis Copeland,2026-06-11,2026-06-12,10682,Cancelled,1
+499,Fuji View Hotel,Katherine Parker,2026-09-15,2026-09-17,18462,Completed,2
+500,Tourist Inn,Anthony Guzman,2026-05-14,2026-05-17,5186,Cancelled,3
