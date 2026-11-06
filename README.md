@@ -158,6 +158,26 @@ This project demonstrates how technology can support tourism-related business op
 
 This is an academic portfolio project using synthetic sample datasets. It is inspired by transportation and tourism business use cases and is not an official Fuji Kyuko application or connected to its internal systems.
 
+## 📸 Dashboard Preview
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Overview Dashboard
+![Overview](screenshots/overview.png)
+
+### Transportation Analytics
+![Transportation](screenshots/transportation.png)
+
+### Hospitality Analytics
+![Hospitality](screenshots/hospitality.png)
+
+### Sales Analytics
+![Sales](screenshots/sales.png)
+
+### AI Insights
+![AI Insights](screenshots/ai_insights.png)
+
 <div align="center">
 
 **Built with Python, SQL, Data Analytics & Generative AI.**
